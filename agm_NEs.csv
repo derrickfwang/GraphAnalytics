@@ -1,0 +1,2169 @@
+ID,Category,NE,RowCnt,Rank
+2405,species,Shewanella putrefaciens,8,1.0
+3405,species,Myxococcus xanthus,3,1.0
+17504,mutation,P23H,18,1.0
+19705,species,C. jejuni,2,1.0
+27405,species,Thermus thermophilus,2,1.0
+28705,species,Pseudomonas aeruginosa,38,1.0
+29205,species,P. cepacia,4,1.0
+29803,drug,GH-RH(1-29)NH2,11,1.0
+30305,species,P. putida,2,1.0
+48505,species,Neisseria gonorrhoeae,6,1.0
+48705,species,N. meningitidis,3,1.0
+52005,species,Bordetella pertussis,3,1.0
+54805,species,Enterobacter aerogenes,6,1.0
+55005,species,Enterobacter cloacae,5,1.0
+55205,species,E. amylovora,5,1.0
+55405,species,Erwinia carotovora,8,1.0
+56205,species,Escherichia coli,221,1.0
+57305,species,Klebsiella pneumoniae,12,1.0
+58505,species,Proteus vulgaris,3,1.0
+64405,species,Aeromonas hydrophila,9,1.0
+66605,species,Vibrio cholerae,9,1.0
+67005,species,Vibrio parahaemolyticus,2,1.0
+67803,drug,kallikreins,3,1.0
+84705,species,Oxalobacter formigenes,3,1.0
+97105,species,S. ruminantium,7,1.0
+100805,species,Saprospira grandis,2,1.0
+102505,species,Microscilla arenaria,5,1.0
+102605,species,Microscilla furvescens,5,1.0
+102805,species,Microscilla sericea,5,1.0
+127205,species,Kocuria varians,5,1.0
+127505,species,Deinococcus erythromyxa,4,1.0
+128005,species,Staphylococcus aureus,20,1.0
+128105,species,Staphylococcus carnosus,2,1.0
+128805,species,Staphylococcus xylosus,2,1.0
+130905,species,S. mutans,5,1.0
+135105,species,Enterococcus faecalis,34,1.0
+135205,species,Enterococcus faecium,3,1.0
+135805,species,Lactococcus lactis,10,1.0
+135905,species,Lactococcus lactis subsp. cremoris,3,1.0
+136005,species,L. lactis subsp. lactis,2,1.0
+137705,species,Aerococcus viridans,5,1.0
+139305,species,Bacillus brevis,5,1.0
+139605,species,Bacillus cereus,11,1.0
+142305,species,Bacillus subtilis,10,1.0
+158005,species,Lactobacillus brevis,9,1.0
+158805,species,Lactobacillus hilgardii,12,1.0
+159005,species,Lactobacillus plantarum,6,1.0
+159805,species,Lactobacillus reuteri,5,1.0
+160105,species,Lactobacillus agilis,5,1.0
+160405,species,Lactobacillus amylovorus,5,1.0
+162205,species,Lactobacillus murinus,5,1.0
+162405,species,Lactobacillus salivarius,5,1.0
+163905,species,Listeria monocytogenes,15,1.0
+182805,species,Corynebacterium fascians,2,1.0
+184903,drug,bradykinin,9,1.0
+190105,species,Streptomyces clavuligerus,2,1.0
+204505,species,Nocardioides simplex,2,1.0
+218005,species,Methanothermus fervidus,5,1.0
+218105,species,Methanothermus sociabilis,3,1.0
+219005,species,Methanococcus jannaschii,2,1.0
+223805,species,Haloarcula marismortui,2,1.0
+224205,species,Halobacterium salinarum,3,1.0
+226105,species,Pyrococcus furiosus,10,1.0
+321805,species,Physcomitrella patens,4,1.0
+331105,species,Ginkgo biloba,3,1.0
+343505,species,Persea americana,9,1.0
+370205,species,Arabidopsis thaliana,25,1.0
+370405,species,horseradish,9,1.0
+384705,species,soybean,20,1.0
+386005,species,Lathyrus sativus,2,1.0
+388505,species,Phaseolus vulgaris,9,1.0
+403905,species,carrot,2,1.0
+405405,species,ginseng,4,1.0
+407605,species,Datura stramonium,11,1.0
+408105,species,Lycopersicon esculentum,5,1.0
+409705,species,tobacco,41,1.0
+411105,species,Solanum melongena,2,1.0
+411305,species,potato,6,1.0
+423605,species,Lactuca sativa,9,1.0
+443205,species,Nelumbo nucifera,3,1.0
+449805,species,Avena sativa,14,1.0
+451305,species,barley,35,1.0
+451605,species,H. bulbosum,2,1.0
+453005,species,rice,17,1.0
+455005,species,rye,17,1.0
+455805,species,sorghum,5,1.0
+456505,species,wheat,42,1.0
+457705,species,maize,13,1.0
+468205,species,Allium sativum,3,1.0
+478705,species,Phytophthora infestans,4,1.0
+493205,species,yeast,12,1.0
+506205,species,Aspergillus oryzae,1,1.0
+512705,species,F. fujikuroi,5,1.0
+551605,species,F. culmorum,6,1.0
+551805,species,Fusarium graminearum,12,1.0
+565605,species,Crithidia fasciculata,11,1.0
+566105,species,Leishmania donovani,4,1.0
+569105,species,Trypanosoma brucei,5,1.0
+569305,species,Trypanosoma cruzi,57,1.0
+569705,species,Trypanosoma evansi,12,1.0
+582105,species,Plasmodium berghei,2,1.0
+583305,species,Plasmodium falciparum,15,1.0
+585505,species,P. vivax,2,1.0
+590004,mutation,Ser28 with Asp,2,1.0
+619205,species,F. hepatica,2,1.0
+623905,species,Caenorhabditis elegans,4,1.0
+628905,species,Haemonchus contortus,3,1.0
+681905,species,Euphausia superba,2,1.0
+745404,mutation,Tyr74 by Phe,2,1.0
+817505,species,Sparus aurata,9,1.0
+835505,species,Xenopus laevis,3,1.0
+871705,species,Akistrodon rhodostoma,2,1.0
+903105,species,chicken,47,1.0
+910305,species,turkey,32,1.0
+935904,mutation,His44Ala,4,1.0
+954405,species,rhesus monkeys,11,1.0
+960605,species,human,547,1.0
+961505,species,dogs,29,1.0
+968505,species,cats,8,1.0
+982305,species,pig,22,1.0
+991305,species,bovine,90,1.0
+992505,species,goat,4,1.0
+994005,species,sheep,6,1.0
+998605,species,rabbit,72,1.0
+1009005,species,mouse,313,1.0
+1009505,species,mice,710,1.0
+1011605,species,rats,1030,1.0
+1014105,species,guinea pig,15,1.0
+1039301,disease,anorexia nervosa,2,1.0
+1040705,species,hepatitis B virus,3,1.0
+1050705,species,Chlorella virus,6,1.0
+1100204,mutation,S53A,2,1.0
+1108205,species,West Nile virus,11,1.0
+1123405,species,measles virus,3,1.0
+1171104,mutation,N51A,3,1.0
+1272105,species,HIV,2,1.0
+1281405,species,RSV,5,1.0
+1445201,disease,malodor,2,1.0
+1689901,disease,depressive-like phenotype,3,1.0
+1731704,mutation,Glu274 --> Ala,2,1.0
+2068001,disease,infarct,2,1.0
+2344101,disease,CPP,20,1.0
+2536304,mutation,Q207E,15,1.0
+2547901,disease,F,2,1.0
+2810805,species,Alteromonas macleodii,4,1.0
+2815205,species,Yersinia kristensenii,6,1.0
+2845105,species,Klebsiella aerogenes,16,1.0
+2934805,species,Clostridium spiroforme,3,1.0
+2949705,species,Vibrio splendidus,2,1.0
+2976005,species,Vitis vinifera,2,1.0
+3006905,species,Anopheles stephensi,12,1.0
+3062104,mutation,T456S,5,1.0
+3207204,mutation,D210N,3,1.0
+3311305,species,Atropa belladonna,3,1.0
+3437305,species,Erysiphe graminis,2,1.0
+3693004,mutation,E184Q,4,1.0
+3736005,species,Plasmodiophora brassicae,3,1.0
+3756704,mutation,I137M,2,1.0
+3935604,mutation,Leu for Pro at codon 257,2,1.0
+3992301,disease,VED,8,1.0
+4096003,drug,hydroxyapatite,3,1.0
+4096203,drug,acetone,7,1.0
+4096903,drug,hexose,5,1.0
+4097403,drug,prednisolone,4,1.0
+4097503,drug,palladium,7,1.0
+4100003,drug,cyclosporin A,20,1.0
+4105003,drug,quinone,12,1.0
+4105403,drug,sterol,10,1.0
+4105503,drug,ethyl acetate,2,1.0
+4107703,drug,tetracycline,3,1.0
+4107903,drug,guanine,2,1.0
+4112003,drug,nitrite,67,1.0
+4112903,drug,ketones,4,1.0
+4114603,drug,indole,4,1.0
+4117603,drug,pyruvate,29,1.0
+4118003,drug,adenine,6,1.0
+4118203,drug,NADH,10,1.0
+4118403,drug,metformin,6,1.0
+4119103,drug,clozapine,3,1.0
+4119403,drug,SDS,25,1.0
+4119903,drug,proline,214,1.0
+4120003,drug,polyethylene glycol 4000,5,1.0
+4121203,drug,formalin,8,1.0
+4121303,drug,tryptophane,2,1.0
+4122703,drug,STZ,115,1.0
+4125803,drug,paclitaxel,3,1.0
+4126103,drug,NMDA,758,1.0
+4127503,drug,phenobarbital,33,1.0
+4128004,mutation,His163 by phenylalanine,4,1.0
+4129403,drug,benzene,2,1.0
+4129603,drug,amide,11,1.0
+4131903,drug,platinum,7,1.0
+4133003,drug,fluoxetine,87,1.0
+4133203,drug,propranolol,36,1.0
+4134303,drug,dexamethasone,16,1.0
+4134803,drug,lithium,49,1.0
+4135503,drug,adriamycin,7,1.0
+4138603,drug,hydrogen peroxide,30,1.0
+4139203,drug,rapamycin,18,1.0
+4139503,drug,ammonium,4,1.0
+4139803,drug,epinephrine,56,1.0
+4140903,drug,MPA,23,1.0
+4141303,drug,diethyl ether,13,1.0
+4143203,drug,5-HT,64,1.0
+4143903,drug,phenyl,19,1.0
+4144403,drug,adenosine,29,1.0
+4144903,drug,poly(ethylene glycol),13,1.0
+4146803,drug,ethylene,17,1.0
+4147203,drug,urea,271,1.0
+4148003,drug,malondialdehyde,50,1.0
+4148503,drug,lysine,258,1.0
+4150103,drug,N-methyl,29,1.0
+4152603,drug,sucrose,16,1.0
+4155603,drug,creatinine,63,1.0
+4156004,mutation,K128A,3,1.0
+4156803,drug,potassium,47,1.0
+4157803,drug,sulfate,7,1.0
+4160603,drug,phenol,4,1.0
+4161403,drug,nitrosyl,4,1.0
+4164303,drug,GSH,48,1.0
+4164703,drug,superoxide,93,1.0
+4165203,drug,triglycerides,9,1.0
+4166703,drug,acetic acid,26,1.0
+4168403,drug,ethanol,216,1.0
+4171203,drug,vitamin,6,1.0
+4174403,drug,sodium,9,1.0
+4175403,drug,calcium,130,1.0
+4176303,drug,serine,77,1.0
+4178903,drug,cholesterol,27,1.0
+4179903,drug,oxygen,57,1.0
+4180203,drug,inosine,2,1.0
+4184903,drug,nicotinic acid,2,1.0
+4188403,drug,ABOL,7,1.0
+4192503,drug,methanesulfonic acid,8,1.0
+4192703,drug,glibenclamide,32,1.0
+4193103,drug,nifedipine,46,1.0
+4195103,drug,borate,4,1.0
+4196203,drug,ammonium acetate,2,1.0
+4197003,drug,"4',6-diamidino-2-phenyl-indole",10,1.0
+4198503,drug,CaCl2,2,1.0
+4198603,drug,tiagabine,19,1.0
+4205003,drug,pyrrolidine,53,1.0
+4205203,drug,MPTP,30,1.0
+4206703,drug,Iso,8,1.0
+4207003,drug,SNP,4,1.0
+4207803,drug,artemisinin,3,1.0
+4208103,drug,hydroxyproline,3,1.0
+4213903,drug,gabapentin,19,1.0
+4214503,drug,mitomycin C,7,1.0
+4215703,drug,verapamil,40,1.0
+4215903,drug,flavin,7,1.0
+4216903,drug,morpholino,2,1.0
+4219503,drug,sodium nitroprusside,10,1.0
+4221603,drug,dexmedetomidine,7,1.0
+4223103,drug,forskolin,10,1.0
+4223503,drug,methadone,17,1.0
+4226903,drug,uridine,2,1.0
+4229803,drug,isopropyl,17,1.0
+4232003,drug,fumarate,14,1.0
+4232403,drug,valproate,40,1.0
+4233103,drug,phenylephrine,28,1.0
+4233903,drug,haloperidol,42,1.0
+4237203,drug,diamine,128,1.0
+4239903,drug,chloroquine,19,1.0
+4242503,drug,imine,5,1.0
+4243103,drug,N omega-nitro-L-arginine methyl ester,2,1.0
+4246403,drug,Aromatic Amine,2,1.0
+4246703,drug,MZ,2,1.0
+4247103,drug,AMPA,65,1.0
+4248003,drug,oxalate,11,1.0
+4249203,drug,capsaicin,4,1.0
+4250903,drug,mannitol,4,1.0
+4251103,drug,butyrate,7,1.0
+4251903,drug,fentanyl,9,1.0
+4252603,drug,thymidine,5,1.0
+4252803,drug,N-acetyl-L-cysteine,24,1.0
+4253503,drug,deoxyuridine triphosphate,8,1.0
+4253603,drug,TRIM,2,1.0
+4255703,drug,AVP,5,1.0
+4258003,drug,maltose,8,1.0
+4258903,drug,LAC,7,1.0
+4259603,drug,spd,13,1.0
+4259703,drug,sepharose,3,1.0
+4262003,drug,l-carnitine,26,1.0
+4263003,drug,CBZ,17,1.0
+4263103,drug,carbamazepine,12,1.0
+4263303,drug,adenylate,13,1.0
+4263503,drug,indomethacin,9,1.0
+4263903,drug,PGE2,7,1.0
+4264303,drug,chloroform,13,1.0
+4265303,drug,succinate,12,1.0
+4265403,drug,chloramphenicol,3,1.0
+4265503,drug,sulphite,9,1.0
+4265803,drug,thiobarbituric acid,10,1.0
+4266103,drug,cGMP,14,1.0
+4266303,drug,FITC,7,1.0
+4266503,drug,luteinizing hormone-releasing hormone,6,1.0
+4267403,drug,somatostatin,10,1.0
+4270103,drug,BrdU,12,1.0
+4273703,drug,diclofenac sodium,7,1.0
+4273903,drug,guanosine,10,1.0
+4274203,drug,cimetidine,16,1.0
+4274503,drug,DHA,5,1.0
+4278303,drug,pyrophosphate,2,1.0
+4278403,drug,Man,10,1.0
+4279503,drug,pyrimidine,6,1.0
+4279603,drug,bicarbonate,4,1.0
+4283303,drug,melatonin,31,1.0
+4284303,drug,benzodiazepines,3,1.0
+4284603,drug,propidium iodide,14,1.0
+4284903,drug,gentamicin,41,1.0
+4286103,drug,caffeine,15,1.0
+4286703,drug,imidazole,20,1.0
+4393304,mutation,E29H,7,1.0
+4492703,drug,K-252a,8,1.0
+4495603,drug,NiCl2,7,1.0
+4496203,drug,UK-14304,11,1.0
+4496603,drug,MnCl2,7,1.0
+4496803,drug,manganese chloride,4,1.0
+4499503,drug,IAA,4,1.0
+4500803,drug,phentolamine,73,1.0
+4501503,drug,phenylethylamine,68,1.0
+4503903,drug,phenylalanyl,10,1.0
+4507203,drug,diethylamine,15,1.0
+4512603,drug,vigabatrin,20,1.0
+4515203,drug,DAMGO,8,1.0
+4517903,drug,isobutyric acid,3,1.0
+4522103,drug,doxazosin,4,1.0
+4525403,drug,bacitracin,4,1.0
+4538603,drug,L-NMMA,9,1.0
+4541703,drug,perchloric acid,7,1.0
+4543403,drug,aprotinin,6,1.0
+4545603,drug,DMSA,3,1.0
+4546505,species,Pseudomonas indigofera,3,1.0
+4546703,drug,S-nitrosoglutathione,8,1.0
+4548503,drug,CPZ,9,1.0
+4550903,drug,periodate,2,1.0
+4552303,drug,apamin,3,1.0
+4553703,drug,[4Fe-4S,2,1.0
+4557403,drug,HgCl2,10,1.0
+4559603,drug,desipramine,65,1.0
+4560403,drug,L-glutamic,7,1.0
+4560603,drug,"1,5-diaminopentane",18,1.0
+4563903,drug,imidazoline,1129,1.0
+4564403,drug,reserpine,16,1.0
+4564903,drug,1H-indazole,4,1.0
+4569103,drug,beta-PEA,8,1.0
+4570503,drug,sialic acid,3,1.0
+4577203,drug,ferricyanide,1,1.0
+4578403,drug,medetomidine,13,1.0
+4581803,drug,ketanserin,38,1.0
+4583503,drug,Pro-Pro,3,1.0
+4597403,drug,carbamyl phosphate,4,1.0
+4597603,drug,semicarbazide,5,1.0
+4599703,drug,methyl glycidate,5,1.0
+4600103,drug,trifluoroperazine,13,1.0
+4601203,drug,butylamine,20,1.0
+4611403,drug,propylamine,20,1.0
+4612605,species,Staphylococcus chromogenes,5,1.0
+4614103,drug,guanfacine,7,1.0
+4614203,drug,phenylhydrazine,6,1.0
+4619203,drug,atipamezole,5,1.0
+4623003,drug,Texas red,3,1.0
+4623903,drug,charybdotoxin,9,1.0
+4624403,drug,carprofen,6,1.0
+4625503,drug,diaminopropane,63,1.0
+4628603,drug,ethosuximide,19,1.0
+4635303,drug,formazan,7,1.0
+4636703,drug,luzindole,4,1.0
+4642003,drug,iodoacetate,7,1.0
+4645803,drug,phosphoramide,2,1.0
+4646703,drug,adipic acid,4,1.0
+4647203,drug,tropane,2,1.0
+4650603,drug,Ida,18,1.0
+4652403,drug,naltrindole,6,1.0
+4663103,drug,acamprosate,14,1.0
+4665003,drug,minoxidil,4,1.0
+4665503,drug,L-NNA,6,1.0
+4665803,drug,argininosuccinate,19,1.0
+4665903,drug,hydroxytryptophan,21,1.0
+4667103,drug,CNQX,10,1.0
+4673903,drug,triazine,2,1.0
+4674103,drug,monodansylcadaverine,4,1.0
+4674403,drug,hippuric acid,7,1.0
+4680903,drug,iodoacetamide,6,1.0
+4682303,drug,ifenprodil,62,1.0
+4687003,drug,cystamine,7,1.0
+4687703,drug,Nivalenol,3,1.0
+4689203,drug,chlorpheniramine,9,1.0
+4689303,drug,potassium carbonate,3,1.0
+4691303,drug,chloroformate,7,1.0
+4692403,drug,tizanidine,8,1.0
+4694303,drug,staurosporin,3,1.0
+4695803,drug,pyridoxal,6,1.0
+4696003,drug,ondansetron,47,1.0
+4699603,drug,clonidine,598,1.0
+4701903,drug,crystal violet,5,1.0
+4702603,drug,NaOH,2,1.0
+4705303,drug,DEAE,11,1.0
+4707903,drug,theophylline,2,1.0
+4708903,drug,2-propanol,13,1.0
+4709503,drug,clavulanic acid,7,1.0
+4711503,drug,fura-2,8,1.0
+4721503,drug,KCl,19,1.0
+4722503,drug,aminopropyl,3,1.0
+4723703,drug,NH2OH,3,1.0
+4727303,drug,acrolein,5,1.0
+4727503,drug,zearalenone,3,1.0
+4727803,drug,triethylamine,38,1.0
+4728403,drug,hypoxanthine,6,1.0
+4732303,drug,quinazoline,4,1.0
+4733103,drug,isobutyl,23,1.0
+4737003,drug,pentylenetetrazole,47,1.0
+4737203,drug,mifepristone,8,1.0
+4738203,drug,ouabain,2,1.0
+4739503,drug,taurocholic acid,17,1.0
+4741003,drug,NPYR,18,1.0
+4743503,drug,cysteine,79,1.0
+4745703,drug,6-OHDA,30,1.0
+4747003,drug,triose phosphate,2,1.0
+4747103,drug,TPM,17,1.0
+4749303,drug,arginine methyl ester,22,1.0
+4749703,drug,quetiapine,3,1.0
+4751503,drug,guanylate,10,1.0
+4751603,drug,3-methoxytyramine,18,1.0
+4752003,drug,tamsulosin,5,1.0
+4754503,drug,colistin,3,1.0
+4754803,drug,wortmannin,6,1.0
+4756103,drug,gluconate,3,1.0
+4757503,drug,memantine,12,1.0
+4758303,drug,methylglyoxal,8,1.0
+4759203,drug,guanidine,141,1.0
+4759403,drug,sulfhydryl,19,1.0
+4761403,drug,dithiothreitol,13,1.0
+4763103,drug,ethylenediamine,17,1.0
+4763603,drug,SLA,4,1.0
+4765003,drug,kanamycin,3,1.0
+4765603,drug,phenytoin,12,1.0
+4766903,drug,LTG,17,1.0
+4768603,drug,lithium chloride,7,1.0
+4771603,drug,spm,13,1.0
+4771703,drug,octanol,2,1.0
+4772903,drug,MeHg,4,1.0
+4773703,drug,polyvinylpyrrolidone,1,1.0
+4774103,drug,urethane,3,1.0
+4774603,drug,bupropion,39,1.0
+4775703,drug,carbachol,17,1.0
+4778103,drug,citalopram,3,1.0
+4778503,drug,oxycodone,105,1.0
+4778903,drug,piperazine,17,1.0
+4780103,drug,spironolactone,8,1.0
+4781203,drug,"1,4-diaminobutane",16,1.0
+4781803,drug,cycloheximide,8,1.0
+4783003,drug,4-chloro,18,1.0
+4783203,drug,ifosfamide,4,1.0
+4783503,drug,sulphuric acid,4,1.0
+4783603,drug,tetrodotoxin,7,1.0
+4784903,drug,scopolamine,22,1.0
+4787003,drug,1-methyl-4-phenylpyridinium,6,1.0
+4788503,drug,MK-801,98,1.0
+4788703,drug,hydrochloric acid,3,1.0
+4788903,drug,naltrexone,2,1.0
+4789903,drug,deoxynivalenol,9,1.0
+4791503,drug,cystine,5,1.0
+4791603,drug,paroxetine,25,1.0
+4793303,drug,carvacrol,9,1.0
+4796603,drug,aminoguanidine,184,1.0
+4797503,drug,kynurenic acid,18,1.0
+4799003,drug,CdCl2,23,1.0
+4800603,drug,xylazine,30,1.0
+4802303,drug,SR141716A,7,1.0
+4803203,drug,pentazocine,3,1.0
+4805303,drug,morpholine,15,1.0
+4808203,drug,levamisol,7,1.0
+4809603,drug,diazoxide,11,1.0
+4812003,drug,oxcarbazepine,12,1.0
+4812303,drug,creatine phosphate,9,1.0
+4813703,drug,pyrroline,6,1.0
+4814105,species,Euphausia crystallorophias,2,1.0
+4817903,drug,trichothecene,18,1.0
+4820303,drug,trichothecenes,2,1.0
+4823203,drug,ZnCl2,7,1.0
+4825603,drug,Os,5,1.0
+4826703,drug,bromocriptine,11,1.0
+4829503,drug,DPAT,10,1.0
+4830803,drug,prenyl,3,1.0
+4833103,drug,mecamylamine,5,1.0
+4833703,drug,oxazoline,12,1.0
+4840503,drug,diphenhydramine,2,1.0
+4842103,drug,CuCl2,7,1.0
+4844703,drug,apomorphine,2,1.0
+4845103,drug,tetrahydrobiopterin,5,1.0
+4851103,drug,chlorpromazine,8,1.0
+4853703,drug,imipramine,22,1.0
+4856503,drug,diethylenetriamine,3,1.0
+4857103,drug,MIBG,4,1.0
+4857403,drug,meta-iodobenzylguanidine,4,1.0
+4861703,drug,pyridoxal phosphate,21,1.0
+4862503,drug,PDTC,6,1.0
+4863703,drug,tetraethylammonium,16,1.0
+4863803,drug,yohimbine,201,1.0
+4866503,drug,trimethylamine,50,1.0
+4868503,drug,biguanide,3,1.0
+4868703,drug,diltiazem,4,1.0
+4869903,drug,beta-mercaptoethanol,7,1.0
+4872803,drug,aspartyl,10,1.0
+4874003,drug,amantadine,7,1.0
+4878403,drug,MgCl(2),3,1.0
+4881104,mutation,E184A,4,1.0
+4883703,drug,triphenyltetrazolium chloride,10,1.0
+4887003,drug,clonazepam,19,1.0
+4887903,drug,cholate,3,1.0
+4896203,drug,TLCK,4,1.0
+4904903,drug,carbamate,21,1.0
+4905903,drug,canavanine,36,1.0
+4926203,drug,MBB,9,1.0
+4927403,drug,cyclopropylmethyl,3,1.0
+4930803,drug,L-NIO,4,1.0
+4941003,drug,pCMB,9,1.0
+4944003,drug,15ADON,2,1.0
+4945303,drug,norvaline,7,1.0
+4948203,drug,phenelzine,2,1.0
+4968803,drug,g-glutamyl cysteine,5,1.0
+4970603,drug,betaxolol,8,1.0
+5002403,drug,oxamate,2,1.0
+5003303,drug,piperidine,17,1.0
+5007603,drug,benzamidine,12,1.0
+5015303,drug,moxonidine,364,1.0
+5017303,drug,terazosin,4,1.0
+5027003,drug,doxylamine,5,1.0
+5028403,drug,cariporide,1,1.0
+5034203,drug,3ADON,2,1.0
+5037903,drug,clorgyline,18,1.0
+5046203,drug,pargyline,9,1.0
+5048103,drug,harmaline,9,1.0
+5050003,drug,CAA,3,1.0
+5058803,drug,dihydrouracil,13,1.0
+5059503,drug,ritanserin,21,1.0
+5066403,drug,"[D-Pen2,D-Pen5]enkephalin",2,1.0
+5066603,drug,O-methylisoprenaline,36,1.0
+5072203,drug,9-aminoacridine,9,1.0
+5078803,drug,icilin,9,1.0
+5084403,drug,CNBr,5,1.0
+5088503,drug,gabexate mesylate,10,1.0
+5096403,drug,guanidinoacetic acid,2,1.0
+5099103,drug,bestatin,7,1.0
+5102603,drug,tris-2-aminoethyl amine,6,1.0
+5105403,drug,polyhexamethylene biguanide,3,1.0
+5112703,drug,phenoxybenzamine,20,1.0
+5112903,drug,5-methoxytryptamine,21,1.0
+5116903,drug,Bay-K-8644,5,1.0
+5120103,drug,para-chlorophenylalanine,5,1.0
+5120303,drug,sodium sulphite,2,1.0
+5125003,drug,MHPG,8,1.0
+5125203,drug,L-homoarginine,19,1.0
+5132403,drug,"1,3-diaminopropane",89,1.0
+5135105,species,Chinese cabbage,8,1.0
+5139603,drug,leupeptin,33,1.0
+5150603,drug,harmane,43,1.0
+5156503,drug,beta-Ala,6,1.0
+5160303,drug,propanediamine,3,1.0
+5178103,drug,cys-cys,10,1.0
+5179303,drug,vinpocetine,7,1.0
+5181503,drug,D-APV,5,1.0
+5187303,drug,pyrilamine,3,1.0
+5188603,drug,methylamine,42,1.0
+5194703,drug,ethyl,17,1.0
+5196403,drug,deprenyl,19,1.0
+5196603,drug,nor-Binaltorphimine,2,1.0
+5202203,drug,beauvericin,5,1.0
+5205403,drug,hydroxybutyl,3,1.0
+5210703,drug,idazoxan,455,1.0
+5217703,drug,homospermidine,70,1.0
+5223103,drug,MTT,11,1.0
+5228903,drug,pepstatin,16,1.0
+5237503,drug,CD15,2,1.0
+5246903,drug,Fluo 3-AM,2,1.0
+5252303,drug,diaminomethane,4,1.0
+5257003,drug,methoxamine,14,1.0
+5264603,drug,benzoxazinoids,12,1.0
+5265903,drug,monodehydroascorbate,3,1.0
+5266503,drug,tropisetron,12,1.0
+5267603,drug,amino-nucleoside,12,1.0
+5269103,drug,ethylamine,20,1.0
+5272803,drug,DFMO,129,1.0
+5275903,drug,hexafluoroacetylacetone,2,1.0
+5276803,drug,cisplatin,45,1.0
+5279503,drug,methysergide,13,1.0
+5296003,drug,dithioerythritol,4,1.0
+5334505,species,Enterococcus durans,3,1.0
+5361203,drug,Tyr-Arg,2,1.0
+5381103,drug,desaminotyrosine,11,1.0
+5393303,drug,CsA,4,1.0
+5401803,drug,chloroacetaldehyde,3,1.0
+5404603,drug,BIBP3226,17,1.0
+5415303,drug,"U-50,488H",9,1.0
+5425005,species,Thermodiscus maritimus,7,1.0
+5432503,drug,HFBA,4,1.0
+5438805,species,Salmonella Paratyphi,9,1.0
+5460803,drug,TMA-N,7,1.0
+5496103,drug,2-BFI,114,1.0
+5500303,drug,N-acetylglutamate,14,1.0
+5520505,species,Caldicellulosiruptor owensensis,2,1.0
+5537303,drug,DPC,4,1.0
+5540103,drug,amino,45,1.0
+5545503,drug,diisopropylphosphorofluoridate,9,1.0
+5557303,drug,naloxonazine,2,1.0
+5560803,drug,hexamethylenediamine,21,1.0
+5571103,drug,cyprid,2,1.0
+5573504,mutation,His120Asn,10,1.0
+5585903,drug,phospho-L-arginine,5,1.0
+5595003,drug,norephedrine,18,1.0
+5595603,drug,triamterene,7,1.0
+5595803,drug,oxymetazoline,33,1.0
+5598103,drug,norharmane,3,1.0
+5598903,drug,deoxyhypusine,11,1.0
+5606803,drug,PNU282987,4,1.0
+5611603,drug,bongkrekic acid,4,1.0
+5621103,drug,MPP,18,1.0
+5631403,drug,efaroxan,210,1.0
+5639903,drug,naphazoline,57,1.0
+5661003,drug,methanol,20,1.0
+5679703,drug,cromakalim,4,1.0
+5749404,mutation,Y130A,3,1.0
+5756103,drug,kynuramine,5,1.0
+5771803,drug,amixin,4,1.0
+5788103,drug,philanthotoxin,9,1.0
+5884703,drug,BRL 44408,8,1.0
+5891803,drug,cysteine methyl ester,3,1.0
+5894503,drug,cirazoline,222,1.0
+5896103,drug,meclizine,4,1.0
+5897003,drug,alumina C,4,1.0
+5901803,drug,n-heptylamine,4,1.0
+5904903,drug,MGBG,34,1.0
+5906903,drug,octopine,3,1.0
+5909503,drug,quisqualic acid,3,1.0
+5913203,drug,para-amino-clonidine,3,1.0
+5940703,drug,NBDF,4,1.0
+5946303,drug,rilmenidine,108,1.0
+5950103,drug,D-cycloserine,11,1.0
+5957703,drug,2-methylpiperazine,2,1.0
+5965103,drug,hexafluoroacetone,2,1.0
+5966703,drug,tolazoline,50,1.0
+5972703,drug,ephedrine,4,1.0
+6006403,drug,dicyclohexylamine,7,1.0
+6023303,drug,p-chlorophenylalanine methyl ester,13,1.0
+6025803,drug,p-bromophenacylbromide,3,1.0
+6050303,drug,MDL100907,7,1.0
+6079803,drug,zolantidine,3,1.0
+6097103,drug,B-HT 933,24,1.0
+6141603,drug,3-PPP,16,1.0
+6164805,species,Kluyvera intermedia,6,1.0
+6171703,drug,disulfide,2,1.0
+6203703,drug,VUF 8430,20,1.0
+6205003,drug,decynium-22,6,1.0
+6220003,drug,DIBOA,3,1.0
+6263003,drug,acetaldehyde,3,1.0
+6267103,drug,BDF 6143,100,1.0
+6269903,drug,p-chloromercuribenzoate,9,1.0
+6281603,drug,ethylenediaminetetraacetate,3,1.0
+6288803,drug,aminobutyrate,4,1.0
+6290003,drug,argininamide,9,1.0
+6293303,drug,isoproterenol,9,1.0
+6313403,drug,d-chlorpheniramine,3,1.0
+6329103,drug,deuterium,1,1.0
+6350903,drug,DAPI,10,1.0
+6354903,drug,benzylamine,3,1.0
+6370503,drug,dimethylmaleic anhydride,4,1.0
+6374004,mutation,Asn149Asp,8,1.0
+6405704,mutation,K173 S,2,1.0
+6440103,drug,L-alpha-aminobutyric acid,7,1.0
+6466303,drug,dAdoMet,2,1.0
+6537003,drug,CGP37849,9,1.0
+6574303,drug,alpha-methyldopa,2,1.0
+6629203,drug,pyridoxal-HCl,3,1.0
+6636403,drug,chlortetracycline,4,1.0
+6659803,drug,DFMA,66,1.0
+6665903,drug,isamoltane,23,1.0
+6707903,drug,5-hydroxyindoleacetaldehyde,4,1.0
+6796003,drug,formiminoglutamate,5,1.0
+6832503,drug,guazatine,12,1.0
+6848903,drug,2-aminoimidazoline,10,1.0
+6876503,drug,loxistatin,2,1.0
+6890003,drug,cyclohexylammonium,4,1.0
+6944203,drug,E-64,78,1.0
+6955603,drug,amthamine,4,1.0
+6979003,drug,peplomycin,7,1.0
+7014003,drug,clocinnamox,4,1.0
+7027903,drug,glutathione,72,1.0
+7062603,drug,phenyzoline,26,1.0
+7094403,drug,"N,N'-bis(2,3-butadienyl)-1,4-butane-diamine",10,1.0
+7095103,drug,E-64-c,2,1.0
+7170103,drug,argininic acid,9,1.0
+7181303,drug,mercaptoethanol,4,1.0
+7217603,drug,L-arginamide,5,1.0
+7304703,drug,hydroxylamine,29,1.0
+7358203,drug,agmatine sulfate,32,1.0
+7375803,drug,sodium borohydride,6,1.0
+7391905,species,Thermaerobacter marianensis,3,1.0
+7394603,drug,feruloylputrescine,8,1.0
+7426703,drug,BAs,17,1.0
+7448803,drug,"N,N'-bis(3-aminopropyl)-1,3-propanediamine",13,1.0
+7461005,species,Pyrococcus glycovorans,5,1.0
+7479005,species,Paramecium bursaria,6,1.0
+7496905,species,Ferroplasma acidiphilum,2,1.0
+7555403,drug,alpha-difluoromethylarginine,11,1.0
+7594903,drug,tripelennamine,2,1.0
+7601003,drug,butoconazole,2,1.0
+7611304,mutation,K209A,3,1.0
+7627605,species,Senecio vulgaris,2,1.0
+7688705,species,Caldivirga maquilingensis,5,1.0
+7692803,drug,galegin,3,1.0
+7701303,drug,bis(hexamethylene)triamine,17,1.0
+7715603,drug,VPA,23,1.0
+7719104,mutation,His145Asn,10,1.0
+8006204,mutation,N248S,3,1.0
+8076505,species,Aphis gossypii,2,1.0
+8298305,species,Obesumbacterium proteus,6,1.0
+8299505,species,Serratia grimesii,6,1.0
+8333305,species,Escherichia coli K-12,5,1.0
+8355505,species,Chlamydia psittaci,2,1.0
+8355805,species,Chlamydophila pneumoniae,3,1.0
+8356005,species,Chlamydia muridarum,2,1.0
+8386805,species,Palaeococcus ferrophilus,2,1.0
+8459705,species,Thermococcus aegaeus,5,1.0
+8459905,species,Staphylothermus hellenicus,4,1.0
+8599105,species,Chlamydia pecorum,2,1.0
+8725705,species,Evernia prunastri,8,1.0
+8769303,drug,dimethylamine,35,1.0
+8808203,drug,Dat,7,1.0
+9032305,species,Thermosipho japonicus,5,1.0
+9037105,species,Salmonella enterica serovar Typhimurium,9,1.0
+9090905,species,Thermococcus waiotapuensis,5,1.0
+9186104,mutation,N51S,3,1.0
+9316304,mutation,S176N,3,1.0
+9363603,drug,[(125)I]iodoarylazidoprazosin,2,1.0
+10113904,mutation,W293L,3,1.0
+10585105,species,Acidilobus aceticus,7,1.0
+11814004,mutation,S287C,4,1.0
+11814104,mutation,G294C,6,1.0
+11814204,mutation,S298C,4,1.0
+12127705,species,Pyrobaculum arsenaticum,7,1.0
+12526105,species,A. oxyphylla,4,1.0
+13390105,species,Frankliniella occidentalis,2,1.0
+14942004,mutation,Cys-157 was mutated to glycine,2,1.0
+15373504,mutation,C453A,1,1.0
+16187104,mutation,RS45041,5,1.0
+16441305,species,Balanus improvisus,2,1.0
+16445105,species,Vulcanisaeta distributa,7,1.0
+16445205,species,Vulcanisaeta souniana,7,1.0
+16577405,species,Crotalaria retusa,2,1.0
+16758704,mutation,N133S,3,1.0
+16758804,mutation,T140F,2,1.0
+16758904,mutation,Y130R,2,1.0
+16833805,species,Heliotropium angiospermum,15,1.0
+18213405,species,Tetranychus ludeni,2,1.0
+18358605,species,Fusarium anguioides,3,1.0
+19573705,species,Duboisia myoporoides,2,1.0
+20362405,species,Pringlea antiscorbutica,5,1.0
+20788005,species,Bacillus polyfermenticus,3,1.0
+22946003,drug,MDL72527,10,1.0
+24829705,species,Heliotropium indicum,10,1.0
+27914305,species,Bacillus malacitensis,3,1.0
+29280605,species,Bacillus massiliensis,3,1.0
+33396505,species,Providencia vermicola,6,1.0
+35132103,drug,KU14R,15,1.0
+35419803,drug,CGP39551,9,1.0
+35765803,drug,AME,4,1.0
+36505805,species,Stolephorus heterolobus,4,1.0
+38112405,species,corn,3,1.0
+38129703,drug,clavaminic acid,3,1.0
+40128503,drug,sym-norspermidine,15,1.0
+45911805,species,C. retusa,3,1.0
+58305203,drug,caldopentamine,23,1.0
+60535103,drug,BW755C,7,1.0
+60663603,drug,audouine,4,1.0
+61335803,drug,FMA,8,1.0
+61363403,drug,N-(3-aminopropyl)cadaverine,3,1.0
+61584403,drug,RS-15385-197,3,1.0
+62084803,drug,metrizamide,1,1.0
+62724803,drug,ammonium sulfate,14,1.0
+62824403,drug,"1,8-octanediamine",5,1.0
+63009203,drug,S-(2-aminoethyl) cysteine,7,1.0
+63428703,drug,RX821002,46,1.0
+63535603,drug,rauwolscine,93,1.0
+63739503,drug,RX-811059,8,1.0
+63775803,drug,canavalmine,15,1.0
+63794203,drug,N-methylsalsolinol,4,1.0
+63845303,drug,monofluoromethylagmatine,9,1.0
+63916803,drug,H12-HTX,6,1.0
+64428103,drug,arginine hydroxamate,4,1.0
+64540103,drug,hirudonine,10,1.0
+64884203,drug,BZAR,5,1.0
+66118203,drug,vitamin B(6),2,1.0
+66273803,drug,dimaprit,4,1.0
+74935003,drug,deoxyguanidinoproclavaminic acid,3,1.0
+74935103,drug,guanidinoproclavaminic acid,5,1.0
+74961103,drug,2-phenylethylamine,109,1.0
+74967003,drug,H-89,22,1.0
+76436803,drug,hydroxycinnamic acid,3,1.0
+77231503,drug,phencyclidine,9,1.0
+77840603,drug,PAA-NH(2),3,1.0
+78226003,drug,aganodine,28,1.0
+79378303,drug,L-argininic acid,9,1.0
+80730403,drug,CoCl2,7,1.0
+81916903,drug,tetrakis(3-aminopropyl)ammonium,2,1.0
+92788003,drug,harman,3,1.0
+93269603,drug,barium chloride,2,1.0
+94119503,drug,"1,8-diaminooctane",2,1.0
+94122803,drug,agmatine,6960,1.0
+94137403,drug,arginine,2212,1.0
+94532003,drug,sym 2206,5,1.0
+98973303,drug,naloxone benzoylhydrazone,4,1.0
+99374003,drug,feruloylagmatine,19,1.0
+99802603,drug,proclavaminic acid,5,1.0
+99817403,drug,4-guanidinobutyraldehyde,7,1.0
+101569403,drug,MFMA,8,1.0
+103603403,drug,metrazoline,2,1.0
+105696903,drug,bleomycin B2,3,1.0
+106906101,disease,T2DM,9,1.0
+106906301,disease,GD,40,1.0
+106907201,disease,mouth dry,2,1.0
+106907401,disease,TS,21,1.0
+106909101,disease,diabetic hyperalgesic,4,1.0
+106909801,disease,ureteral obstruction,17,1.0
+106910101,disease,leg ulcers,8,1.0
+106914501,disease,fibrosarcoma,7,1.0
+106914601,disease,spinal cord ischemia,4,1.0
+106917801,disease,neurological and psychiatric conditions,2,1.0
+106919801,disease,brain infarction,10,1.0
+106926301,disease,APC,16,1.0
+106928501,disease,tics,21,1.0
+106943201,disease,pertussis,10,1.0
+106943701,disease,nyctalopia,2,1.0
+106944601,disease,RSV,5,1.0
+106951501,disease,NP,3,1.0
+106965801,disease,Alzheimer's disease,29,1.0
+106965901,disease,adenocarcinoma,4,1.0
+106966001,disease,lymphoma,6,1.0
+106966401,disease,leukaemia,5,1.0
+106966501,disease,stroke,11,1.0
+106966601,disease,hypertensive,30,1.0
+106969101,disease,infertility,3,1.0
+106969501,disease,colitis,13,1.0
+106969901,disease,CFJ OA,6,1.0
+106970101,disease,glioma,21,1.0
+106970401,disease,MS,6,1.0
+106970701,disease,epileptic,11,1.0
+106970901,disease,coronary artery disease,4,1.0
+106971001,disease,Parkinson's disease,37,1.0
+106971201,disease,lung inflammation,7,1.0
+106971401,disease,kidney diseases,12,1.0
+106971601,disease,malignant melanoma,4,1.0
+106971701,disease,asthma,4,1.0
+106971801,disease,myocardial infarction,3,1.0
+106972001,disease,insulin resistance,33,1.0
+106978701,disease,cerebral infarction,3,1.0
+106979701,disease,renal failure,12,1.0
+106980001,disease,endothelial dysfunction,22,1.0
+106981601,disease,Trypanosoma cruzi,38,1.0
+106981801,disease,IBS,8,1.0
+106984301,disease,alcohol addiction,8,1.0
+106985301,disease,ARF,10,1.0
+106985401,disease,glaucoma,3,1.0
+106985801,disease,HIV,2,1.0
+106985901,disease,hypotension,12,1.0
+106986301,disease,cystic fibrosis,10,1.0
+106986801,disease,neuroblastoma,11,1.0
+106987101,disease,brain inflammation,5,1.0
+106987901,disease,hypoglycemic,2,1.0
+106988001,disease,diabetic kidney,5,1.0
+106988801,disease,myocardial ischemia,4,1.0
+106988901,disease,malnutrition,8,1.0
+106989001,disease,pulmonary fibrosis,8,1.0
+106989301,disease,orofacial dyskinesia,8,1.0
+106989501,disease,acute lung injury,8,1.0
+106990701,disease,Thy-1 nephritis,7,1.0
+106991601,disease,brain edema,30,1.0
+106991801,disease,intracranial hypertension,7,1.0
+106992601,disease,rhabdomyolysis,2,1.0
+106993703,drug,Mg,4,1.0
+106994601,disease,HU,2,1.0
+106994801,disease,cerebral ischemia,13,1.0
+106995601,disease,infectious disease,3,1.0
+106998401,disease,Graves' disease,10,1.0
+107000401,disease,preeclampsia,3,1.0
+107001001,disease,measles virus,3,1.0
+107001201,disease,RP,9,1.0
+107001401,disease,peptic ulcer,3,1.0
+107001501,disease,degeneration of the retina,6,1.0
+107002701,disease,diabetic neuropathy,11,1.0
+107003701,disease,reperfusion hyperemia,6,1.0
+107253001,disease,herpes simplex virus,8,1.0
+107254301,disease,ASD,9,1.0
+107255601,disease,acute spinal morphine tolerance,5,1.0
+107275401,disease,retardation of hair and muscle growth,2,1.0
+107278001,disease,cardiovascular function,4,1.0
+107279001,disease,inborn errors of hepatic metabolism,3,1.0
+107286501,disease,arginine deficiency syndrome,3,1.0
+107296101,disease,urea cycle disorders,10,1.0
+107351201,disease,CKD,11,1.0
+107353901,disease,transient cerebral ischemia,17,1.0
+107354701,disease,SCD,18,1.0
+107360201,disease,middle cerebral artery occlusion (MCAO) injury,3,1.0
+107368101,disease,end-stage renal disease,2,1.0
+107370901,disease,opioid dependence,20,1.0
+107372701,disease,B16 melanoma,26,1.0
+107373601,disease,KD,6,1.0
+107374601,disease,GN,4,1.0
+107375801,disease,ADI,9,1.0
+107377101,disease,HCD,8,1.0
+107377201,disease,Escherichia coli K12 deficient in agmatine ureohydrolase,4,1.0
+107381401,disease,Hashimoto's thyroiditis,10,1.0
+107386301,disease,fulminant hepatic failure,3,1.0
+107387701,disease,gastric cancer,3,1.0
+107390901,disease,intestinal tumor,15,1.0
+107393701,disease,WDS,2,1.0
+107395701,disease,renal carcinoma,5,1.0
+107397901,disease,hypoxic,9,1.0
+107402001,disease,Ehrlich carcinoma,2,1.0
+107417601,disease,EAE,31,1.0
+107418901,disease,acute myeloid leukemia,2,1.0
+107427501,disease,withdrawal anxiety,11,1.0
+107428001,disease,SD,5,1.0
+107435301,disease,hypercholesterolemic,5,1.0
+107443401,disease,respiratory alkalosis,6,1.0
+107447101,disease,Trypanosoma brucei,9,1.0
+107448701,disease,Chlamydophila pneumoniae,3,1.0
+107451101,disease,DR,15,1.0
+107454101,disease,hepatic cancerous,6,1.0
+107458001,disease,nicotine dependence,2,1.0
+107462701,disease,Helicobacter pylori,10,1.0
+107465201,disease,HT,40,1.0
+107465501,disease,ALP,3,1.0
+107471301,disease,pulmonary hypertension,4,1.0
+107473801,disease,DS hypertensive,8,1.0
+107473901,disease,polyamine hypersensitivity,3,1.0
+107474901,disease,deficient,4,1.0
+107475701,disease,puromycin amino-nucleoside nephrosis,12,1.0
+107477001,disease,melanoma cancer,2,1.0
+107477401,disease,SCC,5,1.0
+107480701,disease,morphine dependence,76,1.0
+107480901,disease,breast tumours,5,1.0
+107481001,disease,meningococcal,2,1.0
+107481201,disease,ulcerogenic,2,1.0
+107491601,disease,haematological malignancies,4,1.0
+107495701,disease,pithed spontaneously hypertensive,8,1.0
+107497201,disease,renal dysfunction,8,1.0
+107500901,disease,ADC,21,1.0
+107501401,disease,mechanical hypersensitivity,5,1.0
+107503301,disease,DS,8,1.0
+107505501,disease,locomotor activity deficits,2,1.0
+107505801,disease,deficiencies in ODC1,9,1.0
+107506501,disease,hypoxic-ischemic brain injury,2,1.0
+107508801,disease,adrenalectomized fructose,5,1.0
+107509901,disease,hepatitis B virus infection,3,1.0
+107510401,disease,peripheral neuropathy,9,1.0
+107514801,disease,argininemia,12,1.0
+107524301,disease,hepatoma,20,1.0
+107529901,disease,T-cell lymphoma,2,1.0
+107532501,disease,sickness,4,1.0
+107548901,disease,H,5,1.0
+107549501,disease,hyperammonemic crises,7,1.0
+107550501,disease,AD,62,1.0
+111040703,drug,MDA,55,1.0
+111044903,drug,tritium,22,1.0
+111073403,drug,"2,6-diaminopimelic acid",3,1.0
+111082201,disease,DON,4,1.0
+111082401,disease,septic shock,2,1.0
+120715001,disease,pheochromocytoma,4,1.0
+120747501,disease,FHF,10,1.0
+120779503,drug,aldol,2,1.0
+120780803,drug,galactose,18,1.0
+120781003,drug,fructose,45,1.0
+120784903,drug,D-Ala2,15,1.0
+120796303,drug,GTP-gamma-S,8,1.0
+120796403,drug,3-methylbutylamine,20,1.0
+120796603,drug,tropate,1,1.0
+120809703,drug,2-ketoarginine,7,1.0
+120863003,drug,alpha-methyl-noradrenaline,8,1.0
+120896003,drug,MFMOme,2,1.0
+120934903,drug,delta-MFMA,3,1.0
+121370801,disease,human papillomavirus 16,3,1.0
+121722503,drug,GABA,206,1.0
+121723503,drug,hematoxylin,2,1.0
+121724903,drug,silica,27,1.0
+121725203,drug,acetylcholine,34,1.0
+121725803,drug,adenosine-triphosphate,4,1.0
+121726703,drug,adenosylmethionine,26,1.0
+121728403,drug,acetonitrile,2,1.0
+121749603,drug,phenylmethanesulfonyl fluoride,8,1.0
+121750703,drug,DOPAC,3,1.0
+121752603,drug,3-mercaptopropionic acid,20,1.0
+121753003,drug,calcimycin,14,1.0
+121757103,drug,pentobarbital,11,1.0
+121757303,drug,prazosin,55,1.0
+121757503,drug,glyoxylate,2,1.0
+121759103,drug,paraquat,19,1.0
+121761003,drug,kainate,31,1.0
+121761803,drug,cytidine,13,1.0
+121762403,drug,Ara-C,2,1.0
+121762903,drug,peroxynitrite,5,1.0
+121768803,drug,glycolate,8,1.0
+121768903,drug,naloxone,132,1.0
+121769003,drug,isoleucine,28,1.0
+121769403,drug,carboxy,9,1.0
+121770503,drug,ADP-ribose,13,1.0
+121770603,drug,nicotinamide,18,1.0
+121771203,drug,methamphetamine,45,1.0
+121771303,drug,arachidonate,9,1.0
+121771403,drug,ascorbate,10,1.0
+121771503,drug,choline,21,1.0
+121772003,drug,doxycycline,3,1.0
+121772103,drug,TCA,12,1.0
+121778903,drug,moniliformin,5,1.0
+121779803,drug,guanabenz,67,1.0
+121785403,drug,allantoin,13,1.0
+121786203,drug,STX,8,1.0
+121788103,drug,tosyl,4,1.0
+121788303,drug,pentamidine,12,1.0
+121790203,drug,sodium nitrate,5,1.0
+121791303,drug,quinacrine,7,1.0
+121792103,drug,OPA,33,1.0
+121793803,drug,pseudouridine,2,1.0
+121799203,drug,carbamyl,5,1.0
+121806903,drug,arcaine,197,1.0
+121824903,drug,citrulline,117,1.0
+121832003,drug,antazoline,92,1.0
+121832103,drug,glutamine,137,1.0
+121835003,drug,butylbiguanide,7,1.0
+254194001,disease,convulsion,4,1.0
+254275401,disease,serotonin edema,7,1.0
+254282701,disease,retinal pigmented epithelium dysfunction,3,1.0
+254303101,disease,alcohol,3,1.0
+254303501,disease,psychomotor agitation,2,1.0
+254324401,disease,psychiatric symptoms,3,1.0
+254339601,disease,OCD,12,1.0
+254369201,disease,physical dependence,6,1.0
+254381201,disease,hemorrhage,8,1.0
+254415601,disease,autoimmune thyroid disease,5,1.0
+254439801,disease,P,7,1.0
+254480401,disease,glucose tolerance,2,1.0
+254508401,disease,anxiety-like behaviour,3,1.0
+254547901,disease,retinal ischemia,4,1.0
+254548901,disease,opioid addiction,11,1.0
+254566301,disease,liver disease,2,1.0
+254596801,disease,unipolar and bipolar depression,2,1.0
+254657101,disease,ethanol dependence,27,1.0
+254722601,disease,hypothermic,2,1.0
+254771901,disease,malaria,2,1.0
+254797301,disease,mental disorders,1,1.0
+254923401,disease,neurological,3,1.0
+254936201,disease,cognitive disorders,5,1.0
+255004101,disease,kidney hypertrophy,12,1.0
+255042701,disease,contusion,4,1.0
+255043501,disease,gastric mucosal injury,12,1.0
+255062701,disease,gliosis,15,1.0
+255084001,disease,ocular,3,1.0
+255148401,disease,chronic pain,16,1.0
+255210801,disease,drug addiction,2,1.0
+255230501,disease,gastric disorder,5,1.0
+255236101,disease,laminectomy,2,1.0
+255266601,disease,acute colitis,2,1.0
+255268301,disease,cancer,30,1.0
+255273301,disease,major depression,9,1.0
+255303301,disease,learning impairment,8,1.0
+255329101,disease,eating disorders,2,1.0
+255342101,disease,mammary adenocarcinoma,1,1.0
+255362901,disease,opioid tolerance,17,1.0
+255563401,disease,squamous cell carcinoma of the oral cavity,4,1.0
+255604401,disease,hypotensive,6,1.0
+255653301,disease,oxygen-glucose deprivation,4,1.0
+255792701,disease,salt-sensitive hypertension,21,1.0
+255796801,disease,renal toxicity,3,1.0
+255805601,disease,anxiety disorder,2,1.0
+255886401,disease,neurodegenerative diseases,7,1.0
+255900901,disease,parasitic,3,1.0
+255931001,disease,neurodegenerative,7,1.0
+255934201,disease,renal ischemia,9,1.0
+255953601,disease,motor function deficits,2,1.0
+256004201,disease,facial nerve,4,1.0
+256051801,disease,ischaemia,5,1.0
+256094401,disease,IBD,3,1.0
+256146201,disease,hyperglycemic,4,1.0
+256163701,disease,nicotine withdrawal,3,1.0
+256168501,disease,degeneration,8,1.0
+256174401,disease,anoxia,2,1.0
+256176901,disease,ODC,10,1.0
+256192501,disease,hypercholesterolemia,7,1.0
+256224801,disease,biosynthetic polyamine synthesis defect,2,1.0
+256225101,disease,tumor,152,1.0
+256263201,disease,streptozotocin-induced diabetes,4,1.0
+256312401,disease,bacterial infection,7,1.0
+256339501,disease,Trypanosoma evansi,4,1.0
+256356201,disease,SVZ NSC transplantation,2,1.0
+256366601,disease,fibrosis,3,1.0
+256366801,disease,hypersensitivity of urinary bladder rings to acetylcholine,4,1.0
+256469001,disease,acute painful reaction,2,1.0
+256485001,disease,facial twitching,4,1.0
+256490401,disease,nerve cell ischemic injury,3,1.0
+256497301,disease,painful diabetic neuropathic,5,1.0
+256505801,disease,cognitive deficits,15,1.0
+256514401,disease,massive small-bowel resection,7,1.0
+256572101,disease,vascular disease,3,1.0
+256620501,disease,growth hormone deficiency,2,1.0
+256630301,disease,"impairments in olfactory, cognitive, emotional and motor functions",4,1.0
+256650301,disease,hemorrhagic shock,2,1.0
+256670101,disease,stress,5,1.0
+256739001,disease,depressive,43,1.0
+256753801,disease,Fusarium Head Blight (FHB) disease,3,1.0
+256838701,disease,seizure,49,1.0
+256846301,disease,anxiety,58,1.0
+256856201,disease,ethanol,10,1.0
+256857401,disease,Yac-1 lymphoma,3,1.0
+256894201,disease,sepsis,24,1.0
+257045501,disease,demyelination,2,1.0
+257108601,disease,Leishmania,7,1.0
+257127201,disease,encephalopathy,6,1.0
+257143701,disease,edema,28,1.0
+257154601,disease,inflammation,20,1.0
+257222701,disease,arginine-dependent (auxotrophic) tumors,2,1.0
+257247001,disease,nephrotoxicity,14,1.0
+257290001,disease,methamphetamine abuse,2,1.0
+257294901,disease,chronic arginine deficiency,2,1.0
+257295401,disease,clonic seizures,17,1.0
+257314801,disease,neuropathic pain,45,1.0
+257371701,disease,chronic unpredictable mild stress,7,1.0
+257376601,disease,neurodegenerative processes,2,1.0
+257407501,disease,gastritis,3,1.0
+257465101,disease,subtotal nephrectomy,12,1.0
+257507801,disease,allergic asthma,5,1.0
+257534001,disease,memory impairment,20,1.0
+257571601,disease,fasciolosis,5,1.0
+257597401,disease,cardiovascular diseases,14,1.0
+257610501,disease,dialysis,4,1.0
+257656501,disease,chronic ocular hypertensive,7,1.0
+257694201,disease,collagen accumulation,5,1.0
+257707301,disease,sensory gating deficits,2,1.0
+257752901,disease,abstinent syndrome,14,1.0
+257769901,disease,impaired brain development,6,1.0
+257782301,disease,hyperammonemia,9,1.0
+257799801,disease,hyperthermia,8,1.0
+257833501,disease,major depressive disorder,2,1.0
+257862001,disease,nigra pars compacta,5,1.0
+257892001,disease,metabolic syndrome,6,1.0
+257893201,disease,memory deterioration,6,1.0
+257942301,disease,glomerular thrombosis,12,1.0
+258004301,disease,colon neoplastic,8,1.0
+258006601,disease,diabetic,80,1.0
+258054101,disease,neuronal,2,1.0
+258090801,disease,ptosis,5,1.0
+258111601,disease,hyperphagia,2,1.0
+258127801,disease,glomerulonephritis,12,1.0
+258174001,disease,Autism,2,1.0
+258242401,disease,vesicular stomatitis,5,1.0
+258269101,disease,endocrine disorders,2,1.0
+258320901,disease,adenine excess,4,1.0
+258364801,disease,endotoxic shock,3,1.0
+258452101,disease,cerebral hypoperfusion,7,1.0
+258509701,disease,activity based anorexia,2,1.0
+258530501,disease,neuronal loss,5,1.0
+258565801,disease,first-episode psychosis,2,1.0
+258634501,disease,CPS-I malfunction,2,1.0
+258656301,disease,hypoxia,15,1.0
+258674801,disease,rotavirus,5,1.0
+258682501,disease,pulmonary disease,3,1.0
+258730201,disease,ischemic acute kidney,5,1.0
+258759701,disease,necrosis,5,1.0
+258765001,disease,atrial appendages,6,1.0
+258798401,disease,dopaminergic cell toxicity,4,1.0
+258806701,disease,papillomavirus 16,5,1.0
+258822701,disease,H O,4,1.0
+258886801,disease,panic disorder,6,1.0
+258925401,disease,hypersensitivity,2,1.0
+258947901,disease,IVD degeneration,4,1.0
+259009101,disease,chronic cardiotoxicity,6,1.0
+259103301,disease,metabolic diseases,8,1.0
+259108001,disease,sclerosis,7,1.0
+259121901,disease,H. pylori-,2,1.0
+259128201,disease,inherited retinal disorders,3,1.0
+259319901,disease,vasodilatation of aorta,5,1.0
+259435001,disease,IMs,3,1.0
+259448701,disease,6,7,1.0
+259462001,disease,acute,3,1.0
+259497301,disease,morphine tolerance,30,1.0
+259539501,disease,bladder contractility,3,1.0
+259558701,disease,"impairment of skin, muscle, and lymphoid development",2,1.0
+259563501,disease,dependence,6,1.0
+259577201,disease,Depressive-Like Behavior,3,1.0
+259583701,disease,ischemic,6,1.0
+259616701,disease,anhedonia,3,1.0
+259641401,disease,cisplatin nephrotoxicity,3,1.0
+259669201,disease,Alzheimer s like memory deterioration,2,1.0
+259688201,disease,chronic neurodegenerative diseases,7,1.0
+259730001,disease,diarrheal,2,1.0
+259732201,disease,mesangial proliferative glomerulonephritis,7,1.0
+259735001,disease,colon adenocarcinoma,2,1.0
+259766001,disease,epilepsy,27,1.0
+259810801,disease,memory deficits,5,1.0
+259839101,disease,West Nile,10,1.0
+259845001,disease,astrocytic hyperplasia,6,1.0
+259931301,disease,autoimmune diseases,2,1.0
+259949101,disease,suicide,2,1.0
+259988801,disease,tunnel vision,2,1.0
+260023201,disease,mood disorder,5,1.0
+260035501,disease,Cryptosporidium parvum infection,4,1.0
+260037001,disease,retinal damage,3,1.0
+260045201,disease,acute lung infection,1,1.0
+260079301,disease,schizophrenia,60,1.0
+260117501,disease,tachycardia,3,1.0
+260132101,disease,chronic ocular hypertension,3,1.0
+260133301,disease,activity-based anorexia,3,1.0
+260251801,disease,fungal,6,1.0
+260263101,disease,leaf and stem rust,3,1.0
+260271001,disease,sexually transmitted infections,2,1.0
+260274501,disease,arthritis,20,1.0
+260342001,disease,excitotoxicity-related disorders,7,1.0
+260365101,disease,CNS disorders,12,1.0
+260418101,disease,bipolar disorder,6,1.0
+260451801,disease,occlusion of the ophthalmic artery,2,1.0
+260521601,disease,atherosclerotic cardiovascular disease,2,1.0
+260527501,disease,valproate,4,1.0
+260552101,disease,cognitive decline,13,1.0
+260568201,disease,glioblastoma,5,1.0
+260623801,disease,NPC,5,1.0
+260633701,disease,Enterococcus faecalis,4,1.0
+260657901,disease,respiratory syncytial virus,7,1.0
+260684001,disease,vaso-occlusion,4,1.0
+260724101,disease,ischemic injury,19,1.0
+260791501,disease,anorexia,13,1.0
+260820801,disease,traumatic SCI,2,1.0
+260822701,disease,alcohol withdrawal,15,1.0
+260835901,disease,locomotor hyperactivity,12,1.0
+260934301,disease,psychological dependence,2,1.0
+260959401,disease,bradycardia,19,1.0
+260966501,disease,arginine or creatine deficiency,3,1.0
+261031801,disease,Chlamydia,3,1.0
+261095601,disease,N,3,1.0
+261104001,disease,C6 glioma,3,1.0
+261104601,disease,neurodegenerative changes in the brain,2,1.0
+261106901,disease,morphine analgesia,24,1.0
+261129101,disease,acute attack,7,1.0
+261181601,disease,gastrointestinal discomfort,2,1.0
+261226701,disease,ischemia,39,1.0
+261232301,disease,neurotoxicity,45,1.0
+261243901,disease,FHB disease,3,1.0
+261244901,disease,central nervous system (CNS) conditions,2,1.0
+261382501,disease,neuropathy,15,1.0
+261399101,disease,eye degenerative diseases,2,1.0
+261400701,disease,obesity,13,1.0
+261513601,disease,cognitive abnormalities,2,1.0
+261739401,disease,TBI,54,1.0
+261911201,disease,peripheral nerve injury,12,1.0
+262300301,disease,allodynia,30,1.0
+262326101,disease,pain,36,1.0
+262553601,disease,diarrhea,9,1.0
+262874701,disease,RM,3,1.0
+262941501,disease,PSP,3,1.0
+263089101,disease,CUMS,7,1.0
+263161801,disease,nausea,2,1.0
+263258201,disease,acute and chronic pain,5,1.0
+263364301,disease,shellfish poisoning,3,1.0
+263646901,disease,burn injury,12,1.0
+263647101,disease,cracked maize kernel,5,1.0
+263717701,disease,cachexia,11,1.0
+263728501,disease,ischemia-reperfusion injury,3,1.0
+263738601,disease,lethargy,3,1.0
+264004301,disease,weight loss,3,1.0
+264036201,disease,tremor,4,1.0
+264142101,disease,glutamate toxicity,7,1.0
+264219401,disease,oxycodone hypothermia,15,1.0
+264229701,disease,ischemia-like injuries,4,1.0
+264592201,disease,post-stroke infection,4,1.0
+264821601,disease,spinal cord injury,22,1.0
+264969401,disease,MPTP,3,1.0
+264984701,disease,PD,21,1.0
+265028101,disease,nerve injury,9,1.0
+265417001,disease,overweight,6,1.0
+265752101,disease,ageing,2,1.0
+265846601,disease,head trauma,2,1.0
+266005301,disease,pithed spontaneous hypertensive,4,1.0
+266087001,disease,insulin-like growth factor I-dependent tumors,2,1.0
+266251001,disease,lung parenchymal tissue injury,3,1.0
+266267001,disease,neuronal injuries,3,1.0
+266720901,disease,traumatic nerve,8,1.0
+266858501,disease,trauma,21,1.0
+266884301,disease,glial scar,2,1.0
+267266501,disease,obese,13,1.0
+267273501,disease,nephropathy,17,1.0
+267285901,disease,cognitive dysfunction,6,1.0
+267300801,disease,retardation,2,1.0
+267340803,drug,AAs,4,1.0
+267346201,disease,motor and proprioception deficits,3,1.0
+267348401,disease,arginase I deficient,7,1.0
+267365201,disease,Paramecium bursaria Chlorella virus,4,1.0
+267365401,disease,neurological diseases,7,1.0
+267366801,disease,structural brain disease,2,1.0
+267373201,disease,spasticity,7,1.0
+267387001,disease,arginine deficiency,13,1.0
+267388201,disease,atherosclerosis,28,1.0
+267406001,disease,depression,135,1.0
+267406901,disease,cognitive impairment,14,1.0
+267409601,disease,CT,3,1.0
+267548003,drug,o-phenanthroline,7,1.0
+267666703,drug,corticosterone,83,1.0
+267921903,drug,glycerol,24,1.0
+268112003,drug,phosphatidylcholine,7,1.0
+268174803,drug,BRL 41992,8,1.0
+268183003,drug,dimyristoyl phosphatidylcholine,3,1.0
+268308203,drug,phorbol myristate acetate,4,1.0
+268651203,drug,1400W,6,1.0
+268687303,drug,14C,20,1.0
+268782303,drug,2-hydroxyputrescine,6,1.0
+268898403,drug,15N,38,1.0
+268940903,drug,"1,5-(diethylamino)piperidine",6,1.0
+269039903,drug,U73122,4,1.0
+269142203,drug,sulphur,2,1.0
+269240303,drug,"1,7-diaminoheptane",4,1.0
+269500403,drug,trans-ACPD,3,1.0
+269518103,drug,Abu15,9,1.0
+269565803,drug,rotenone,13,1.0
+269864203,drug,ST587,7,1.0
+269864903,drug,imidazole-4-acetic acid,6,1.0
+270026603,drug,IBMX,33,1.0
+270107003,drug,"1,N6-etheno NAD",5,1.0
+270478003,drug,ornithine,874,1.0
+270690603,drug,LSL 60129,11,1.0
+270852803,drug,WB4101,16,1.0
+271418703,drug,eosin,2,1.0
+271544803,drug,"2,4-dihydroxy-1,4-benzoxazin-3-one",3,1.0
+271948003,drug,bilirubin,24,1.0
+272115403,drug,(D-Ala2)GH-RH(1-29)NH2,9,1.0
+272277203,drug,taurine,27,1.0
+272328203,drug,flavonoid,7,1.0
+272434103,drug,CTA,4,1.0
+272883403,drug,2-guanidine-4-methylquinazoline,3,1.0
+273056203,drug,ethanolamine,61,1.0
+273122403,drug,2-imidazoline,16,1.0
+273336503,drug,LY294002,30,1.0
+273515003,drug,alpha-keto-delta-guanidinovaleric acid,3,1.0
+273608303,drug,caracasanamide,3,1.0
+273849103,drug,methionine,29,1.0
+273867003,drug,L-aspartate,5,1.0
+274011803,drug,L-argininamide,5,1.0
+274027203,drug,LSL 61122,23,1.0
+274218503,drug,"5,6-dihydroxytryptamine",21,1.0
+274267003,drug,"MDL 105,519",2,1.0
+274660503,drug,cAMP,92,1.0
+274671003,drug,amiloride,82,1.0
+274712403,drug,"3,5-dinitrobenzoyl chloride",3,1.0
+274817003,drug,methylene blue,4,1.0
+275464003,drug,[3H]2-BFI,17,1.0
+275472703,drug,hdc(+),2,1.0
+275487503,drug,L-Arg,40,1.0
+275654003,drug,indoxyl sulfate,7,1.0
+275668103,drug,3-isobutyl-1-methylxanthine,6,1.0
+275735103,drug,ferulic acid,6,1.0
+276081803,drug,cinnamyl alcohol,7,1.0
+276258903,drug,S-adenosyl-L-methionine,17,1.0
+276472103,drug,octopamine,50,1.0
+276597303,drug,D-CPP,5,1.0
+276929203,drug,gamma-aminobutyraldehyde,10,1.0
+276929803,drug,4-aminobutanol,4,1.0
+276930103,drug,4-aminobutyl,2,1.0
+276930403,drug,4-aminobutyrate,13,1.0
+277080103,drug,p-hydroxymercuribenzoate,2,1.0
+277275103,drug,4-guanidinobutyric acid,3,1.0
+277276303,drug,4-guanidinobutyrate,6,1.0
+277346203,drug,HVA,3,1.0
+277461303,drug,TTQ,2,1.0
+277545103,drug,4-methylhistamine,18,1.0
+277646603,drug,NPIP,6,1.0
+277651503,drug,p-nitrophenyl-p'-guanidinobenzoate,5,1.0
+278537003,drug,5-methylthioribose,9,1.0
+278822203,drug,phenazine methosulfate,2,1.0
+278828203,drug,MTA,14,1.0
+278956203,drug,PPADS,2,1.0
+279036003,drug,"MEN-10,376",2,1.0
+279308703,drug,cytosine,2,1.0
+279338303,drug,Apa,6,1.0
+279373003,drug,6-bromoindole,5,1.0
+279536603,drug,WIN 55212-2,10,1.0
+280032003,drug,7-chlorokynurenic acid,9,1.0
+280192303,drug,7-nitroindazole,49,1.0
+280802703,drug,beta-carbolines,3,1.0
+281276903,drug,acetyl,4,1.0
+281278703,drug,acetylspermidine,2,1.0
+281355303,drug,acid,2,1.0
+281361603,drug,formate,3,1.0
+281372603,drug,PUFAs,3,1.0
+281376203,drug,tricarboxylic acid,16,1.0
+281377303,drug,trichloroacetic acid,5,1.0
+281378303,drug,glutamic acid,42,1.0
+281527603,drug,adenine nucleotide,2,1.0
+281563303,drug,MgADP,3,1.0
+281742003,drug,phenyl-sepharose,8,1.0
+281786303,drug,agmatidine,8,1.0
+281787503,drug,agmatine aldehyde,5,1.0
+281790003,drug,AGN192403,32,1.0
+281915803,drug,alanyl,17,1.0
+281960103,drug,n-butanol,3,1.0
+281961303,drug,alcohols,4,1.0
+281970503,drug,aldehyde,50,1.0
+281995603,drug,glyceraldehyde,3,1.0
+281996503,drug,"2,2'-dithiodipyridine",2,1.0
+282186703,drug,Ro25-6981,3,1.0
+282194003,drug,N-nitrosomorpholine,6,1.0
+282227403,drug,amino acid,406,1.0
+282604803,drug,maltotriose,3,1.0
+282627203,drug,alpha-monofluoromethyl-putrescine,2,1.0
+282848003,drug,amines,458,1.0
+282857203,drug,imino acids,2,1.0
+282859403,drug,aminoalcohol,5,1.0
+282866303,drug,urea-1-carboxylate,3,1.0
+282884903,drug,amidino,14,1.0
+282920803,drug,ammonium chloride,6,1.0
+282967803,drug,AMP,24,1.0
+282969803,drug,amphetamines,3,1.0
+283397103,drug,antimycin A,2,1.0
+283461903,drug,AP7,9,1.0
+283475803,drug,aperidine,2,1.0
+283551203,drug,AR-A014418,3,1.0
+283598203,drug,ARC 239,8,1.0
+283700203,drug,aromatic amino acids,14,1.0
+283712403,drug,Arsenazo III,2,1.0
+283828103,drug,aspartate,89,1.0
+283832803,drug,DEVD-CHO,2,1.0
+283878503,drug,steroid,7,1.0
+283926103,drug,ATP,122,1.0
+284078503,drug,ammonia,69,1.0
+284182503,drug,Ba2+,3,1.0
+284230803,drug,beta-alanine,2,1.0
+285020903,drug,beta-hydroxy aspartic acid,7,1.0
+285489503,drug,bleomycinic acid,3,1.0
+285490203,drug,bleomycin,8,1.0
+285516703,drug,Evan's blue,2,1.0
+285562803,drug,BMS182874,61,1.0
+285946803,drug,BU224,123,1.0
+286211803,drug,jasmonate,3,1.0
+286236403,drug,N-acetylspermine,20,1.0
+286302103,drug,p-coumaroylagmatine,10,1.0
+286348203,drug,ADPribosyl,4,1.0
+286920403,drug,acetylphosphate,4,1.0
+287236303,drug,putrescine,1981,1.0
+287248103,drug,dipeptides,16,1.0
+287264303,drug,heptafluorobutyric acid,2,1.0
+287297803,drug,CBA,8,1.0
+287419803,drug,hexyl,6,1.0
+287420703,drug,arginyl,29,1.0
+287548103,drug,tropine,13,1.0
+287575803,drug,catecholamines,31,1.0
+287734103,drug,Ca(2+),152,1.0
+287739403,drug,Ca,16,1.0
+287828803,drug,cannabinoids,3,1.0
+287877703,drug,caracasandiamide,3,1.0
+287894603,drug,guanidino,113,1.0
+287900503,drug,ureido,10,1.0
+287960903,drug,carbonyl,3,1.0
+287970103,drug,amidines,10,1.0
+287990003,drug,carboxymethyl,3,1.0
+288647903,drug,N-acetylputrescine,40,1.0
+288651603,drug,N-acetylspermidine,24,1.0
+288688603,drug,N-acetylornithine,6,1.0
+288927303,drug,hydroxyethylcellulose,4,1.0
+289294803,drug,potassium chloride,2,1.0
+289301703,drug,Cl,7,1.0
+289495803,drug,Cr,4,1.0
+289737403,drug,citrate,22,1.0
+289856903,drug,FeCl3,7,1.0
+289882003,drug,Clo,8,1.0
+290019003,drug,methylguanidine,23,1.0
+290217003,drug,caffeoyl-CoA,7,1.0
+290326103,drug,thiol,57,1.0
+290508003,drug,"CP55,940",4,1.0
+290542703,drug,3-((+)-2-carboxypiperazin-4-yl)-propyl-1-phosphonic acid,5,1.0
+290761003,drug,Cu(2+),2,1.0
+290782503,drug,Cm,3,1.0
+290894403,drug,cyclic nucleotide,2,1.0
+290937203,drug,PCP,18,1.0
+290986203,drug,WAY 100635,23,1.0
+290994103,drug,cyclohexyl,3,1.0
+291054503,drug,Cyclophosphamide,4,1.0
+291138403,drug,ADP-ribosylcysteine,2,1.0
+291213003,drug,alpha-aminobutyric acid,5,1.0
+291369803,drug,D-aspartate,25,1.0
+291449403,drug,D-galactosamine,9,1.0
+291621503,drug,Delta(1)-pyrroline,6,1.0
+291622003,drug,pyrroline-5-carboxylate,4,1.0
+291747903,drug,dUTP,8,1.0
+291876703,drug,2H,6,1.0
+291977503,drug,glucose,236,1.0
+291981803,drug,d-glucoside,4,1.0
+292043603,drug,"3,4-dihydroxyphenylacetaldehyde",4,1.0
+292098203,drug,diamines,31,1.0
+292142803,drug,N2,20,1.0
+292376703,drug,NH2,36,1.0
+292621503,drug,CO2,46,1.0
+292843403,drug,homocysteic acid,4,1.0
+292866903,drug,DMA,4,1.0
+293010003,drug,Brij 35,3,1.0
+293123803,drug,D-Pro(,3,1.0
+293505003,drug,edeine B1,7,1.0
+293514603,drug,EDTA,26,1.0
+293546803,drug,estrogens,3,1.0
+293625403,drug,carbon,87,1.0
+293709403,drug,endomorphin-1,15,1.0
+293883803,drug,epoxy,4,1.0
+294016803,drug,esters,3,1.0
+294317303,drug,(+/-)-eusynstyelamide A,5,1.0
+294434303,drug,molsidomine,11,1.0
+294473103,drug,fatty acid,8,1.0
+294667403,drug,feruloyl-CoA,4,1.0
+294820003,drug,Florisil,2,1.0
+295151103,drug,fumonisins,5,1.0
+295160703,drug,fura-2/AM,6,1.0
+295187503,drug,Fusarenon-X,5,1.0
+295238003,drug,gadolinium,3,1.0
+295282803,drug,galactosamine,6,1.0
+295342103,drug,1-naphthylacetic acid,3,1.0
+295458303,drug,ganglioside,4,1.0
+295511203,drug,"N1-guanyl-1,7-diaminoheptane",6,1.0
+295640803,drug,MIA-602,3,1.0
+295649103,drug,GA(3),16,1.0
+295789303,drug,glucose-6-phosphate,3,1.0
+295829803,drug,glutamate,605,1.0
+295840203,drug,glutamyl,10,1.0
+296049703,drug,GMP,9,1.0
+296198203,drug,graphite,5,1.0
+296241103,drug,growth hormone-,2,1.0
+296295403,drug,guanidines,33,1.0
+296329003,drug,guanine nucleotide,21,1.0
+296458103,drug,heme,19,1.0
+296619203,drug,morphine,745,1.0
+297128403,drug,hexahistidine,2,1.0
+297204403,drug,Hg,3,1.0
+297235103,drug,hydrogen,15,1.0
+297281303,drug,histidyl,10,1.0
+297454603,drug,glycine,148,1.0
+297504403,drug,H O,7,1.0
+297514203,drug,homocaldopentamine,18,1.0
+297550003,drug,hordatine A,2,1.0
+297552903,drug,hormone,5,1.0
+297731003,drug,"N,N'",6,1.0
+297749403,drug,hydrocarbon,3,1.0
+297823903,drug,hydroxycinnamic acids,2,1.0
+297849203,drug,hydroxyl,3,1.0
+297934803,drug,I-2581,4,1.0
+298147203,drug,imidazoles,4,1.0
+298149503,drug,imidazolines,101,1.0
+298163003,drug,imino,3,1.0
+298289903,drug,ADC,3,1.0
+298321103,drug,GDP,5,1.0
+298331903,drug,GTP,62,1.0
+298359903,drug,TAS,3,1.0
+298372903,drug,thermospermine,28,1.0
+298399603,drug,tryptophan,50,1.0
+298571003,drug,pindolol,40,1.0
+298611003,drug,quercetin,2,1.0
+299016703,drug,NAD,181,1.0
+299059903,drug,puromycin,19,1.0
+299195603,drug,doxorubicin,20,1.0
+299264703,drug,C2,5,1.0
+299469103,drug,lactic acid,18,1.0
+299569003,drug,DDM,4,1.0
+299605303,drug,maleate,6,1.0
+299697903,drug,Gs,3,1.0
+299757803,drug,histamine,582,1.0
+299761103,drug,L-glutamate,29,1.0
+299966403,drug,carnitine,10,1.0
+299973803,drug,carboxynorspermidine,6,1.0
+300032303,drug,tyramine,451,1.0
+300056303,drug,NGNG-dimethyl-L-arginine,2,1.0
+300062603,drug,aminopropylcadaverine,19,1.0
+300092103,drug,PAH,7,1.0
+300150903,drug,norspermine,36,1.0
+300163903,drug,caffeic acid,7,1.0
+300307903,drug,tryptamine,322,1.0
+300489903,drug,phenylalanine,35,1.0
+300514303,drug,creatine,175,1.0
+300585403,drug,phosphoenolpyruvate,5,1.0
+300617003,drug,carbamoyl phosphate,10,1.0
+300783103,drug,trehalose,3,1.0
+300807803,drug,staurosporine,13,1.0
+301100803,drug,O2,25,1.0
+301295903,drug,N1-acetylspermidine,7,1.0
+301339803,drug,retinal,3,1.0
+301440603,drug,D-arginine,24,1.0
+301478303,drug,AdiC,4,1.0
+301705103,drug,NH,14,1.0
+301716903,drug,NAG,16,1.0
+301727903,drug,L-citrulline,101,1.0
+301742503,drug,hyoscyamine,29,1.0
+301940303,drug,sym-homospermidine,15,1.0
+302080503,drug,dopamine,206,1.0
+302312503,drug,novobiocin,9,1.0
+302425503,drug,cocaine,5,1.0
+302550403,drug,phosphates,2,1.0
+302794003,drug,isopentyl,6,1.0
+302820603,drug,triclosan,3,1.0
+302847803,drug,iron-sulfur,5,1.0
+302902403,drug,isocitrate,8,1.0
+302989903,drug,isopropylamine,20,1.0
+303123203,drug,JI-38,22,1.0
+303507603,drug,2-amino-4-phosphonobutyric acid,2,1.0
+303636203,drug,ADP,620,1.0
+303646403,drug,alanine,60,1.0
+303647303,drug,l-amino acid,2,1.0
+303716703,drug,L-arginine,650,1.0
+303748403,drug,asparagine,36,1.0
+303751403,drug,argininosuccinic acid,15,1.0
+303803003,drug,L-canavanine,28,1.0
+303824103,drug,L-cysteine,8,1.0
+303833403,drug,Cys,20,1.0
+303837703,drug,L-cystine,5,1.0
+303949603,drug,leucyl,10,1.0
+304045403,drug,E,9,1.0
+304046703,drug,l-glutamine,12,1.0
+304048003,drug,Glu,39,1.0
+304061803,drug,histidine,129,1.0
+304063803,drug,H,14,1.0
+304202603,drug,l-isoleucine,8,1.0
+304203203,drug,Ile,4,1.0
+304261003,drug,leucine,40,1.0
+304274403,drug,L-lysine,41,1.0
+304302203,drug,L-N6-(1-iminoethyl)lysine,6,1.0
+304306203,drug,L-NAME,101,1.0
+304309303,drug,nicotine,102,1.0
+304368203,drug,Orn,2,1.0
+304381503,drug,1-Oleoyl-lysophosphatidic acid,5,1.0
+304402003,drug,L-phenylalanine,4,1.0
+304403403,drug,Phe,29,1.0
+304419503,drug,Pro,14,1.0
+304452603,drug,Ser,13,1.0
+304454503,drug,LSL 60101,27,1.0
+304473603,drug,Thr,6,1.0
+304491003,drug,tyrosine,122,1.0
+304497903,drug,L-tyrosine,2,1.0
+304499603,drug,Tyr,29,1.0
+304568403,drug,l-valine,8,1.0
+304593603,drug,LY235959,11,1.0
+304604803,drug,LY320135,5,1.0
+304826103,drug,Mg2+,15,1.0
+304943403,drug,Mn(2+),22,1.0
+305421203,drug,C,49,1.0
+305443003,drug,methionyl,10,1.0
+305482003,drug,methyl,25,1.0
+305656403,drug,CH(2),7,1.0
+305669603,drug,tosyl-L-arginine methyl ester,4,1.0
+305895803,drug,lactose,20,1.0
+306037203,drug,manganese,6,1.0
+306142603,drug,carboxylate,4,1.0
+306198403,drug,nitric oxide,917,1.0
+306330703,drug,MR-356,11,1.0
+306547403,drug,MZ-4-243,5,1.0
+306572003,drug,N1-aminopropylagmatine,9,1.0
+306803803,drug,Asn,14,1.0
+306804203,drug,His,3,1.0
+306804803,drug,Lys,15,1.0
+306813003,drug,7-methylguanine,7,1.0
+306911503,drug,spermidine,1297,1.0
+306912203,drug,norspermidine,61,1.0
+307123903,drug,lysidine,2,1.0
+307144303,drug,CPA,4,1.0
+307153803,drug,kinetin,4,1.0
+307357503,drug,N-acetyl serotonin,3,1.0
+307393203,drug,ureide,7,1.0
+307403903,drug,NADPH,20,1.0
+307464103,drug,D-Arg,7,1.0
+307469903,drug,D-Trp,2,1.0
+307476703,drug,Gln,9,1.0
+307477403,drug,Trp,14,1.0
+307487203,drug,NAMDA,4,1.0
+307488603,drug,N-amidino-2-hydroxypyrrolidine,13,1.0
+307499103,drug,NAN-190,23,1.0
+307587803,drug,monoamine,187,1.0
+307633303,drug,1-benzylimidazole,4,1.0
+307680903,drug,butyl,8,1.0
+307759703,drug,N-carbamoylputrescine,69,1.0
+308168603,drug,"[Leu(31), Pro(34)]-NPY",4,1.0
+308235803,drug,N(G)-hydroxy-l-arginine,7,1.0
+308258803,drug,glutathionylspermidine,7,1.0
+308260903,drug,tobramycin,3,1.0
+308371503,drug,Ni2+,2,1.0
+308487003,drug,nitrate,54,1.0
+308511903,drug,nitrites,9,1.0
+308520903,drug,N,225,1.0
+308528003,drug,nitroglycerin,4,1.0
+308528103,drug,NO2,11,1.0
+308685503,drug,N-methylputrescine,8,1.0
+308755603,drug,DTG,51,1.0
+309055403,drug,noradrenaline,195,1.0
+309330003,drug,putrescines,13,1.0
+309397703,drug,nucleoside,3,1.0
+309404203,drug,nucleotides,24,1.0
+309743003,drug,succinate semialdehyde,2,1.0
+309755803,drug,L-proline,4,1.0
+309851503,drug,octyl,6,1.0
+309875503,drug,"1H-[1,2,4]oxadiazolo[4,3-a]quinoxalin-1-one",6,1.0
+309914403,drug,potassium hydroxide,3,1.0
+310365003,drug,oxalurate,16,1.0
+310391703,drug,oxide,26,1.0
+310400503,drug,CO,22,1.0
+310444203,drug,O,11,1.0
+310529103,drug,"1,4-benzenediamine",4,1.0
+310624403,drug,poly(amidoamine),13,1.0
+310629203,drug,p-aminobenzamidine,26,1.0
+310853503,drug,PCA,3,1.0
+310891503,drug,p-coumaroylputrescine,8,1.0
+310895103,drug,p-cresol sulfate,7,1.0
+310901003,drug,PD98059,28,1.0
+311085903,drug,pentyl,6,1.0
+311087903,drug,cadaverine,722,1.0
+311363903,drug,PTC,6,1.0
+311532003,drug,phenylpropanoid,7,1.0
+311590903,drug,phosphate,9,1.0
+311749403,drug,PHT,17,1.0
+312028103,drug,polyglutamic acid,2,1.0
+312259403,drug,polyacrylamide,20,1.0
+312263403,drug,poly(acrylic acid,6,1.0
+312266603,drug,poly(ADP-ribose),12,1.0
+312280103,drug,polyamines,806,1.0
+312280403,drug,polyamine,763,1.0
+312375203,drug,polyethyleneimine,6,1.0
+312424303,drug,poly-L-arginine,5,1.0
+312437303,drug,cyanophycin,2,1.0
+312447003,drug,polylysine,2,1.0
+312461203,drug,PMA,4,1.0
+312468403,drug,PMS,2,1.0
+312649703,drug,K+,47,1.0
+312688403,drug,poly(propylene fumarate-co-ethylene glycol),7,1.0
+312823803,drug,primary aliphatic amine,4,1.0
+312827303,drug,primary amine,16,1.0
+312896303,drug,progestins,3,1.0
+312931403,drug,prolyl,10,1.0
+312975103,drug,NMMA,6,1.0
+313005003,drug,PPP,12,1.0
+313016503,drug,Propyl,6,1.0
+313043203,drug,prostaglandin E(2),5,1.0
+313055303,drug,prostaglandins,8,1.0
+313083003,drug,L-methionine,3,1.0
+313414503,drug,pyridine nucleotides,2,1.0
+313429303,drug,pyridoxal 5'-phosphate,13,1.0
+313510203,drug,pyrrolizidine alkaloid,22,1.0
+313662903,drug,D-aspartic acid,7,1.0
+313673003,drug,secondary amines,7,1.0
+313760403,drug,D-Ala,24,1.0
+314085903,drug,ribose,164,1.0
+314089103,drug,ribosyl,46,1.0
+314130703,drug,ketamine,82,1.0
+314219703,drug,NaCl,10,1.0
+314310903,drug,amphetamine,3,1.0
+314483203,drug,L-ornithine,202,1.0
+314497003,drug,aspartic acid,34,1.0
+314589203,drug,RX801080,2,1.0
+314601903,drug,sugars,20,1.0
+314614003,drug,S-adenosylmethionine,29,1.0
+314615903,drug,adrenaline,67,1.0
+314722703,drug,sarcosine,13,1.0
+314764803,drug,SB203580,6,1.0
+314873303,drug,Schiff base,3,1.0
+315068503,drug,senecionine N-oxide,4,1.0
+315095703,drug,SH,19,1.0
+315117603,drug,serotonin,228,1.0
+315402303,drug,lactate,98,1.0
+315599403,drug,Na+,34,1.0
+315780903,drug,spermine,1009,1.0
+315790203,drug,sphingosine,5,1.0
+316068003,drug,streptomycin,5,1.0
+316084003,drug,Sr++,9,1.0
+316161203,drug,succinyl,4,1.0
+316232403,drug,Sr2+,3,1.0
+316261003,drug,SO(2),7,1.0
+316273703,drug,S,13,1.0
+316279403,drug,sulfates,3,1.0
+316433003,drug,tachykinin,4,1.0
+316485003,drug,tannin,9,1.0
+316570403,drug,Boc,5,1.0
+316656303,drug,TEA,3,1.0
+316876603,drug,tetraamine,2,1.0
+317138903,drug,thiamine,6,1.0
+317260603,drug,threonyl,10,1.0
+317366003,drug,Sn2,8,1.0
+317606503,drug,tracizoline,11,1.0
+317916503,drug,TMA,23,1.0
+318049803,drug,sodium citrate,5,1.0
+318064203,drug,3H-thymidine,7,1.0
+318065903,drug,3H,10,1.0
+318086003,drug,tropane alkaloids,7,1.0
+318118703,drug,trypanothione,11,1.0
+318270603,drug,tyrosyl,10,1.0
+318290003,drug,endomorphin-2,2,1.0
+319247803,drug,Xyl,10,1.0
+319450303,drug,Zn(2+),12,1.0
+319463403,drug,Zn++,4,1.0
+319509303,drug,zinc,8,1.0
+320426502,gene,occludin,2,1.0
+321007602,gene,MPP,5,1.0
+321013502,gene,CDK8,9,1.0
+321173302,gene,speG,3,1.0
+321193202,gene,alpha-tubulin,3,1.0
+321196602,gene,aminopeptidase,12,1.0
+321210102,gene,Bap2,3,1.0
+322301602,gene,LIM,5,1.0
+322683502,gene,PGC1a,2,1.0
+322687602,gene,ArcD1,9,1.0
+322703102,gene,NLP1,8,1.0
+322711802,gene,IRAS,71,1.0
+322717302,gene,PKC,35,1.0
+322730302,gene,arginine decarboxylase,705,1.0
+322737402,gene,NLRP3,13,1.0
+322760702,gene,ART5,12,1.0
+322770602,gene,ARF GTPase-activating protein,4,1.0
+322856402,gene,a2-AR,7,1.0
+322868202,gene,CREB,13,1.0
+322877102,gene,CRP,15,1.0
+322877702,gene,CRT1,2,1.0
+322891702,gene,ADP-ribosylarginine hydrolase,11,1.0
+322892802,gene,poly(ADP-ribose) synthetase,10,1.0
+322912202,gene,alpha-1,4,1.0
+322916902,gene,NeuN,11,1.0
+322920302,gene,cystatin C,8,1.0
+322941602,gene,Adra 2a,2,1.0
+322948702,gene,cathepsin B,43,1.0
+322950302,gene,phospholipase A2,7,1.0
+322953102,gene,cathepsin L,7,1.0
+322957202,gene,alpha-2C adrenoceptor,2,1.0
+322996002,gene,DAO,17,1.0
+323009002,gene,DCX,7,1.0
+323038002,gene,deoxyhypusine synthase,11,1.0
+323039802,gene,PSD-95,4,1.0
+323044002,gene,terminal deoxynucleotidyl transferase,13,1.0
+323044702,gene,4-aminobutyrate aminotransferase,2,1.0
+323046102,gene,dopamine D1 receptor,5,1.0
+323046202,gene,dopamine D2 receptor,13,1.0
+323048002,gene,angiotensin II,19,1.0
+323054002,gene,edg1,7,1.0
+323054102,gene,edg2,7,1.0
+323054202,gene,edg3,7,1.0
+323059002,gene,eEF2,7,1.0
+323060102,gene,EGF,16,1.0
+323065202,gene,PAO,5,1.0
+323069302,gene,eIF5A,5,1.0
+323094902,gene,protein tyrosine kinase,4,1.0
+323095202,gene,ERK,13,1.0
+323099102,gene,Akt,141,1.0
+323104302,gene,albumin,20,1.0
+323105802,gene,serine protease,15,1.0
+323106902,gene,factor Xa,8,1.0
+323108602,gene,FAD,3,1.0
+323109302,gene,protein kinase B,35,1.0
+323143002,gene,bFGF,14,1.0
+323146502,gene,LDL-C,16,1.0
+323164002,gene,LIMCH1,2,1.0
+323197002,gene,L-Arg,6,1.0
+323197702,gene,Crtc1(-/-),15,1.0
+323202302,gene,Lat2,8,1.0
+323210502,gene,c-Fos,5,1.0
+323211402,gene,FosB,6,1.0
+323214102,gene,edg7,7,1.0
+323251002,gene,mTOR,28,1.0
+323255502,gene,CD15,4,1.0
+323262502,gene,glucose-6-phosphate dehydrogenase,3,1.0
+323307702,gene,diamine oxidase,91,1.0
+323324502,gene,Lyp1,9,1.0
+323324602,gene,SAMDC,10,1.0
+323331002,gene,glycine amidinotransferase,10,1.0
+323334902,gene,glucagon,2,1.0
+323337802,gene,AST,24,1.0
+323339902,gene,TM8,4,1.0
+323353302,gene,GFAP,38,1.0
+323367302,gene,GH,41,1.0
+323367702,gene,GHRH,55,1.0
+323367902,gene,GHRP,47,1.0
+323388502,gene,GCLc,13,1.0
+323389102,gene,ALP,10,1.0
+323399502,gene,Gs alpha,33,1.0
+323404902,gene,phi,2,1.0
+323475302,gene,Ang-2,2,1.0
+323546702,gene,GluA1,4,1.0
+323554702,gene,mRt6,4,1.0
+323557302,gene,NR1,7,1.0
+323557502,gene,NR2A,3,1.0
+323557802,gene,NR2B,17,1.0
+323559702,gene,glucocorticoid receptor,8,1.0
+323562702,gene,PYCARD,4,1.0
+323562902,gene,mGluR1,9,1.0
+323564902,gene,mGluR5,9,1.0
+323565502,gene,MIP-2,9,1.0
+323566402,gene,GSK-3b,58,1.0
+323566802,gene,GR,23,1.0
+323590602,gene,methemoglobin,3,1.0
+323593702,gene,annexin V,4,1.0
+323602202,gene,SSAO,5,1.0
+323604102,gene,HO-1,61,1.0
+323608402,gene,PotE,14,1.0
+323620702,gene,(APC,2,1.0
+323636602,gene,PLC,2,1.0
+323638002,gene,5-HT(1A) receptor,25,1.0
+323638502,gene,5-HT2A receptor,8,1.0
+323646102,gene,ICAM-1,30,1.0
+323703102,gene,interferon-gamma,4,1.0
+323715602,gene,apoE,6,1.0
+323737502,gene,IL-1a,2,1.0
+323737602,gene,IL-1b,36,1.0
+323738102,gene,CD25(+),3,1.0
+323738702,gene,IL-4,12,1.0
+323739102,gene,IL-6,56,1.0
+323739802,gene,IL-8,4,1.0
+323757102,gene,IL-18,9,1.0
+323757502,gene,aquaporin-4,10,1.0
+323758502,gene,p33,10,1.0
+323759402,gene,insulin,152,1.0
+323764102,gene,CD11b(+),5,1.0
+323765902,gene,EMT,7,1.0
+323776202,gene,ARF1,20,1.0
+323783502,gene,Kir 6.2,3,1.0
+323792602,gene,VEGFR2,21,1.0
+323794002,gene,Kir,3,1.0
+323796002,gene,bradykinin,9,1.0
+323796102,gene,arginase-1,2,1.0
+323797702,gene,NS3,16,1.0
+323919202,gene,lck,4,1.0
+323982902,gene,LIM protein,3,1.0
+323997402,gene,CYP,7,1.0
+323998602,gene,LDC,6,1.0
+324020402,gene,Mad,3,1.0
+324025002,gene,monoamine oxidase A,10,1.0
+324025102,gene,MAO-B,50,1.0
+324036702,gene,ART1,16,1.0
+324037502,gene,TLX,14,1.0
+324037602,gene,RT6.,4,1.0
+324038302,gene,mono(ADP-ribosyl)transferase,14,1.0
+324048502,gene,MMP-2,12,1.0
+324048602,gene,MMP-3,4,1.0
+324049702,gene,MMP-9,9,1.0
+324052402,gene,ASL,15,1.0
+324052802,gene,MPO,42,1.0
+324125102,gene,ASS,8,1.0
+324142202,gene,c-Myc,7,1.0
+324147802,gene,ATF3,3,1.0
+324170902,gene,NF-L,7,1.0
+324171602,gene,neuraminidase,3,1.0
+324173502,gene,Nrf2,39,1.0
+324174002,gene,proton pump,2,1.0
+324174102,gene,nuclear factor-kappa B,3,1.0
+324174302,gene,IkBa,6,1.0
+324179202,gene,NOS,166,1.0
+324179302,gene,iNOS,131,1.0
+324179402,gene,eNOS,60,1.0
+324182202,gene,NT-3,6,1.0
+324183202,gene,NPYR,5,1.0
+324195102,gene,OAZ1,6,1.0
+324195202,gene,OAZ2,10,1.0
+324195702,gene,ornithine decarboxylase,418,1.0
+324199702,gene,kappa-opioid receptor,8,1.0
+324200102,gene,MOR,9,1.0
+324201902,gene,ornithine transcarbamylase,17,1.0
+324203502,gene,P2X7,2,1.0
+324230402,gene,PEPCK,7,1.0
+324232702,gene,GalN,6,1.0
+324235402,gene,proliferating cell nuclear antigen,2,1.0
+324254502,gene,EDRF,3,1.0
+324264402,gene,iNOS,28,1.0
+324271402,gene,rd1,6,1.0
+324278302,gene,OAZ3,6,1.0
+324281302,gene,ADC (a),14,1.0
+324281402,gene,beta-alanine synthase,2,1.0
+324292702,gene,PI3,10,1.0
+324295302,gene,PI3K,52,1.0
+324295402,gene,PI3K,17,1.0
+324295802,gene,PI3K,6,1.0
+324302502,gene,plasminogen,1,1.0
+324305802,gene,edg8,7,1.0
+324306102,gene,apr,2,1.0
+324321102,gene,cytochrome c,6,1.0
+324325202,gene,amino acid transporter 2,4,1.0
+324325802,gene,beta-endorphin,32,1.0
+324342802,gene,CATs,5,1.0
+324346002,gene,OCT2,2,1.0
+324352002,gene,OCT3,2,1.0
+324371802,gene,AUH,3,1.0
+324390702,gene,AVP,16,1.0
+324404702,gene,hMATE1,11,1.0
+324426902,gene,PCP,5,1.0
+324427602,gene,PEPase,6,1.0
+324463102,gene,ERK,82,1.0
+324465102,gene,JNK,6,1.0
+324503102,gene,PLP,3,1.0
+324556402,gene,bEnd3,6,1.0
+324568802,gene,PTS,8,1.0
+324569002,gene,Bax,19,1.0
+324569802,gene,parvalbumin,10,1.0
+324592602,gene,Bcl-2,14,1.0
+324593602,gene,p65,6,1.0
+324594402,gene,receptor tyrosine kinase,10,1.0
+324600502,gene,RNase A,2,1.0
+324636302,gene,BDNF,50,1.0
+324639902,gene,SSAT,13,1.0
+324644202,gene,MCP-1,14,1.0
+324655802,gene,E-selectin,10,1.0
+324669202,gene,bleomycin hydrolase,5,1.0
+324717802,gene,bcrp1,5,1.0
+324741102,gene,p21,10,1.0
+324822202,gene,BMP,3,1.0
+324836402,gene,GLUT-2,20,1.0
+324837102,gene,GLUT4,9,1.0
+324837902,gene,SLC3A2,6,1.0
+324845202,gene,Dat1,22,1.0
+324860102,gene,SLC7A1,16,1.0
+324868802,gene,monoamine transporter,4,1.0
+324869702,gene,OCT1,69,1.0
+324869802,gene,OCT3,36,1.0
+324869902,gene,OCT2,83,1.0
+324870002,gene,OCTN1,36,1.0
+324870102,gene,OCTN2,36,1.0
+324875202,gene,Sma,3,1.0
+324880402,gene,SOD,79,1.0
+324885102,gene,TCP,5,1.0
+324885702,gene,secreted phosphoprotein 1,3,1.0
+324887802,gene,Src,4,1.0
+324888502,gene,SREBP-1c,20,1.0
+324888802,gene,spermidine synthase,26,1.0
+324891302,gene,somatostatin,22,1.0
+324907802,gene,SUR,6,1.0
+324910002,gene,synaptotagmin I,11,1.0
+324910502,gene,substance P,2,1.0
+324946502,gene,transferrin receptor,3,1.0
+324946802,gene,TGF-beta1,28,1.0
+324947002,gene,TGFb-2,9,1.0
+324948302,gene,tyrosine hydroxylase,35,1.0
+324949802,gene,Thy-1,5,1.0
+324950402,gene,TIMP-1,2,1.0
+324955602,gene,TNF-a,127,1.0
+324958702,gene,p53,11,1.0
+324959702,gene,triose phosphate isomerase,2,1.0
+324961002,gene,C3b,8,1.0
+324964102,gene,C4b,5,1.0
+324975202,gene,H2a,2,1.0
+324996902,gene,beta-actin,3,1.0
+325058702,gene,cad,5,1.0
+325073702,gene,VCAM-1,26,1.0
+325074602,gene,VEGF,28,1.0
+325076802,gene,vitronectin,3,1.0
+325125502,gene,TRPM8,2,1.0
+325172702,gene,agmatinase,274,1.0
+325195702,gene,ALP,19,1.0
+325235302,gene,LAT1,7,1.0
+325264602,gene,caspase-1,4,1.0
+325268502,gene,H2b,2,1.0
+325272102,gene,caspase-3,34,1.0
+325272202,gene,H4B,5,1.0
+325317802,gene,mlr-2 gene,5,1.0
+325331402,gene,CAT,27,1.0
+325363502,gene,SLC22A16,6,1.0
+325377602,gene,SSAO,11,1.0
+325383302,gene,edg6,7,1.0
+325414402,gene,p56,4,1.0
+325426702,gene,amino acid permease,5,1.0
+325436302,gene,AP5,9,1.0
+325448002,gene,Boc,5,1.0
+325449502,gene,edg4,7,1.0
+325454802,gene,CD4(+),5,1.0
+325464002,gene,CD8,4,1.0
+325471102,gene,edg5,7,1.0
+325474302,gene,ASIC3,10,1.0
+325500502,gene,p-ERK,6,1.0
+325515902,gene,kallikrein,4,1.0
+325550202,gene,MED12,2,1.0
+325550302,gene,MED13,2,1.0
+325672902,gene,APX,8,1.0
+325673502,gene,H4 receptor,7,1.0
+325868402,gene,PAH,12,1.0
+325873202,gene,CAT,2,1.0
+325890802,gene,POX,11,1.0
+325902302,gene,AGM,8,1.0
+325917802,gene,EMT,7,1.0
+325924402,gene,HDL,9,1.0
+325952302,gene,ERG,2,1.0
+325976502,gene,AR,20,1.0
+326041702,gene,ARG,5,1.0
+326146802,gene,APCS,2,1.0
+326203402,gene,muscarinic receptor,4,1.0
+326266702,gene,IL-6,9,1.0
+326281902,gene,CTA,9,1.0
+326303702,gene,MTR,3,1.0
+326349902,gene,CPA,3,1.0
+326402802,gene,glutathione peroxidase,17,1.0
+326403002,gene,GSH,23,1.0
+326403502,gene,fibronectin,33,1.0
+326403602,gene,hemoglobin,13,1.0
+326403802,gene,LDH,86,1.0
+326403902,gene,Hb,7,1.0
+326404102,gene,lactate dehydrogenase,77,1.0
+326404602,gene,phospholipase C,9,1.0
+326405102,gene,GFP,2,1.0
+326405702,gene,collagen,20,1.0
+326405802,gene,Ab,7,1.0
+326406002,gene,PDGF,5,1.0
+326406102,gene,alanine aminotransferase,24,1.0
+326406302,gene,NF-kB,45,1.0
+326406402,gene,nitric oxide synthase,176,1.0
+326406602,gene,GH,88,1.0
+326407002,gene,TUNEL,38,1.0
+326407102,gene,tau,3,1.0
+326407302,gene,ALT,24,1.0
+326407402,gene,actin,6,1.0
+326407802,gene,CK,31,1.0
+326407902,gene,histone,26,1.0
+326408102,gene,superoxide dismutase,15,1.0
+326408202,gene,MAPK,15,1.0
+326408902,gene,high-density lipoprotein,8,1.0
+326409102,gene,LDL,2,1.0
+326409402,gene,matrix metalloproteinases,11,1.0
+326409602,gene,IgG,2,1.0
+326409702,gene,monoamine oxidase,43,1.0
+326409802,gene,MAO,87,1.0
+326409902,gene,PKA,18,1.0
+326410202,gene,ERK1/2,3,1.0
+326410302,gene,NO synthase,23,1.0
+326410402,gene,calmodulin,3,1.0
+326410602,gene,protein kinase A,28,1.0
+326410802,gene,LH,16,1.0
+326411302,gene,green fluorescent protein,2,1.0
+326411402,gene,caspase,2,1.0
+326411602,gene,opioid receptors,8,1.0
+326411902,gene,MMPs,19,1.0
+326412102,gene,follicle-stimulating hormone,4,1.0
+326412402,gene,peroxidase,23,1.0
+326412602,gene,NMDA receptor,258,1.0
+326413102,gene,HDL-C,10,1.0
+326413202,gene,bovine serum albumin,8,1.0
+326413302,gene,CT,18,1.0
+326413502,gene,histones,32,1.0
+326413702,gene,adenylyl cyclase,7,1.0
+326413802,gene,pertussis toxin,18,1.0
+326414802,gene,C3,5,1.0
+326415002,gene,FSH,6,1.0
+326415602,gene,alkaline phosphatase,2,1.0
+326415702,gene,G proteins,4,1.0
+326415802,gene,adenylate cyclase,14,1.0
+326416202,gene,protein kinase C,2,1.0
+326416302,gene,ovalbumin,5,1.0
+326416802,gene,trypsin,21,1.0
+326416902,gene,G protein,7,1.0
+326418502,gene,Ras,3,1.0
+326419102,gene,casein,22,1.0
+326420202,gene,oxidase,11,1.0
+326421102,gene,E2,4,1.0
+326421202,gene,gonadotropin,2,1.0
+326421902,gene,NMDA receptors,146,1.0
+326422702,gene,GTPase,5,1.0
+326422902,gene,plasma insulin,2,1.0
+326423602,gene,calpain,10,1.0
+326424102,gene,GPx,23,1.0
+326425102,gene,concanavalin A,5,1.0
+326425402,gene,horseradish peroxidase,9,1.0
+326425502,gene,HRP,9,1.0
+326425602,gene,NADPH oxidase,6,1.0
+326425802,gene,avidin,1,1.0
+326426002,gene,beta-adrenoceptor,13,1.0
+326426102,gene,acid phosphatase,16,1.0
+326426202,gene,urokinase,5,1.0
+326426402,gene,pepsin,5,1.0
+326426602,gene,beta-lactamase,5,1.0
+326427502,gene,gluten,3,1.0
+326428102,gene,immunoglobulins,10,1.0
+326428602,gene,enkephalin,2,1.0
+326429402,gene,E1,10,1.0
