@@ -1,0 +1,85 @@
+match (n) optional match (n) - [r] -() delete n, r;
+
+LOAD CSV WITH HEADERS FROM "file:///c:/NEs.csv" AS row
+MERGE (O:Object {id: row.ID})
+ON CREATE SET O.Category = row.Category, O.Name=row.NE;
+
+MATCH (n)
+WHERE n.Category = 'disease'
+SET n:disease;
+
+MATCH (n)
+WHERE n.Category = 'gene'
+SET n:gene;
+
+
+MATCH (n)
+WHERE n.Category = 'drug'
+SET n:drug;
+
+MATCH (n)
+WHERE n.Category = 'mutation'
+SET n:mutation;
+
+MATCH (n)
+WHERE n.Category = 'species'
+SET n:species;
+
+LOAD CSV WITH HEADERS FROM "file:///c:/Relationships.csv" AS row
+MATCH (o1 { id:row.ID1 })
+MATCH (o2 { id:row.ID2 })
+MERGE (o1)-[r:correlate]->(o2)
+on create set r.count = 1, r.sentence ='', r.pmid = row.pmid
+on match set r.count = r.count + 1, , r.pmid = r.pmid + ", " + row.pmid
+
+
+LOAD CSV WITH HEADERS FROM "file:///c:/Relation_w_Sentence.csv" AS row
+MATCH (o1 { id:row.ID1 })
+MATCH (o2 { id:row.ID2 })
+MERGE (o1)-[r:correlate]->(o2)
+on match set r.sentence = r.sentence +  "  ||  " + row.sentence
+
+
+match (n:species)-[r]-()
+//where size((n)-[]-())=0
+where n.Name = 'human'
+delete n, r
+
+
+
+
+
+match (n)
+where size((n)-[]-())=0
+delete n
+
+match (n:disease)-[r1]-(n2)-[r2]-(n3)
+where n.Name =~ '.*hair gray.*' and r1.count>1 and r2.count>1 and n<>n3
+//and (n2.Category <> 'disease' or n2.Name in ['alopecia','aging','hair loss'])
+//and (n3.Category <> 'disease' or n3.Name in ['alopecia','aging','hair loss'])
+with n,r1, n2,r2, n3 
+where n2.Category <> 'disease' and n3.Category <> 'disease'
+return n,r1,  n2,r2, n3
+
+
+# Link Prediction
+
+MATCH (a:Node), (b:Node)
+WHERE a <> b AND a.name < b.name AND not((a)-[:FRIENDS]-(b))
+RETURN a.name, b.name, algo.linkprediction.adamicAdar(a, b) AS score
+ORDER BY score DESC
+
+
+MATCH (a:Node {name: 'C'})
+MATCH (d:Node {name: 'E'})
+RETURN algo.linkprediction.preferentialAttachment(a, d) AS score
+
+
+match p = (n:disease)-[r1]-(n2)-[r2]-(n3)
+where (n.Name =~ '.*hair.*' or n.Name =~ '.*stress.*' or n.Name in ['alopecia','aging'])
+and n2.Category = 'gene'
+and n3.Category = 'drug'
+return p
+
+
+
